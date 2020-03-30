@@ -39,7 +39,7 @@ Az eredményt a [csharp_101.pdf](csharp_101.pdf) fájlban találod.
 
 # Gyakorló feladatok
 Ha további gyakorlásra lenne szükséged, dolgozom néhány plusz feladaton, amik nehézségi szintje kb. az érettségi feladatokéval egyezik meg.
-Az első ilyen feladatot a gyarkolo_feladatok\1_afa mappában találod. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
+Az első ilyen feladatot a [gyakorlo_feladatok/1_afa](https://github.com/mbd249/erettsegi/tree/master/gyakorlo_feladatok/1_afa) mappában találod. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
 Még igyekezni fogok legalább 4-5 feladatsort készíteni, úgyhogy látogass vissza később.
 
 # Kérdésed van?
