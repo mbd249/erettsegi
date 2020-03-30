@@ -34,7 +34,7 @@ Ha egy feladat megoldása során elakadtál és nem tudod, hogy hogyan tovább, 
 Hogy tudjam, hogy mit kell tudni a feladatok megoldásához nekem is meg kellett oldanom őket.
 Alapvetően tudni kell fájlból olvasni, fájlba írni, szöveget számmá és vissza alakítani. Képernyőre írni és onnan adatokat beolvasni.
 Ezeket az ismereteket próbáltam összegyűjteni egy helyre.
-Az eredményt a csharp_101.pdf fájlban találod.
+Az eredményt a [csharp_101.pdf](csharp_101.pdf) fájlban találod.
 
 
 # Gyakorló feladatok
