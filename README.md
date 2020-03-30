@@ -23,8 +23,9 @@ Míg ha te oldassz meg egy feladatot, akkor ezt a Program.cs fájlban teszed, az
 ### Ellenőrzésre
 Ha megoldottál egy feladatot és szeretnéd ellenőrizni, hogy helyes-e az eredményed. Ez akkor is hasznos lehet, ha nem C#-ban oldottad meg a feladatot.
 
-Ha csak ki akarod próbálni, hogy mit kellene, hogy a programod kiírjon, vagy mi a létrehozott fájl tartalma, akkor letöltheted a programot. A FeladatValaszto.exe futtatása után kiválaszthatod a feladatot, majd a Start gombra kattintással elindul a program. 
+Ha csak ki akarod próbálni, hogy mit kellene, hogy a programod kiírjon, vagy mi a létrehozott fájl tartalma, akkor letöltheted a [programot](https://github.com/mbd249/erettsegi/releases/download/v1.0/megoldasok.zip) (34,1MB). Az állomány kicsomagolása után a FeladatValaszto.exe futtatása során kiválaszthatod a feladatot, majd a Start gombra kattintással elindul a feladathoz tartozó program. 
 A Feladatlap gombra kattintva megnyithatod az adott vizsga feladatlapját. A data mappa az összes a feladatsorokhoz tartozó fájlt tartalmazza, így akár a többi, nem programozási feladatot is megoldhatod.
+A feladatok neve melletti csillagok száma a feladat nehézségi szintjét jelöli (saját vélemény).
 
 ### Elakadtál?
 Ha egy feladat megoldása során elakadtál és nem tudod, hogy hogyan tovább, akkor megnézheted a részfeladat kódját.
