@@ -1,0 +1,6 @@
+Tárgy	Csoportlétszám	Már jelentkezett	Még nem jelentkezett
+történelem	25
+matematika	31
+fizika	22
+informatika	24
+angol	17

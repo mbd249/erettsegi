@@ -1,0 +1,29 @@
+A darts játéknak két ágazata van: a steel és a soft.
+Mindkettõben a versenyek fõ száma az 501-es játék dupla kiszállóval.
+Természetesen a darts játékok száma szinte végtelen. Néhány a legkedveltebb játékok közül:
+301
+Cricket
+Shanghai
+301 parches
+
+
+501 dupla kiszállóval
+A játékosok 501 pontról indulnak, és minden dobással csökkentik ezt az értéket. A cél, hogy végül elérjék a nulla pontot. A nehezítés abban áll, hogy az utolsó dobásnak, amivel épp elérik a nulla pontot, duplának kell lennie!
+
+301
+A játék a kezdõ pontszámról kapta nevét. Minden szerzett pont csökkenti a játékos pontszámát. A játékosoknak ezekrõl az induló pontszámokról kell minél hamarabb elérni a pontosan nulla pontszámot. Általános esetben, aki elõször eléri a nullát, azonnal nyer. Ha valaki a dobásai során nagyobb pontszámot dob, mint amennyi a nulla eléréséhez szükséges, akkor a pontjainak száma visszaáll a kör elején meglévõre, és a játékos elveszti a maradék nyilait erre a körre.
+
+Cricket
+Ebben a játékban a 15-20 közötti számokat és a bullseye-t kell háromszor eltalálni. A számokat tetszõleges sorrendben "zárhatja le", azaz dobhatja meg háromszor. Természetesen a dupla és tripla dobásokkal gyorsíthatja a játék befejezését.
+A játék során az nyer, aki a leggyorsabban lezárja mindegyik számot.
+
+Cut-Throat Cricket
+A cricket egyik változata. De ebben a játékban pontok felírására van lehetõség. Amennyiben az egyik játékos már lezárt egy számot, és újra megdobja azt, akkor a dobás értéke azokra az ellenfelekre íródik, akik még nem zárták le az adott számot. A játékot az nyeri, akinek a legkevesebb pontja van. 
+
+Shanghai
+Ez a játék a soft ágban népszerû.
+Ebben a játékban a cél minden mezõ sorrendben történõ eltalálása az 1. mezõtõl kezdõdõen. A játékosok három dárdával felváltva dobálnak. Minden játékos számára a dobás elõtt a gép kijelzi az éppen megdobandó mezõ számát. Amíg el nem találja a játékos a kívánt mezõt, addig arra a mezõre kell céloznia, akár egészen a játék végéig. Ha eltalálja, akkor a mezõ pontértékét kapja, és a következõ sorszámú mezõt célozhatja. A dupla és tripla dobások a többszörös értékkel szerepelnek. A játékot az a játékos nyeri, akinek a játék végén a legtöbb pontja lesz. Van egy lehetõség az azonnali nyerésre. Ha valamelyik játékos egy körön belül a három dárdájával a soron következõ mezõit úgy találja el, hogy azok közül egy szimpla, egy dupla és egy tripla dobás lesz (tetszõleges sorrendben), akkor azonnal nyer, a többiek pontszámától függetlenül. Ezt a mutatványt hívják SHANGHAI-nak.
+
+301 Parches
+A játékosok 0 pontról indulnak. Az gyõz, aki elõször éri el pontosan a 301 pontot. A meglepetés menet közben éri az embert: ha ugyanis valaki egy nyíl eldobása után ugyanannyi ponttal rendelkezik, mint valamelyik ellenfele, akkor az ellenfél pontszáma nullára csökken. Csapatjáték esetén a saját csapattársát nem nullázza le a játékos azonos pontszám esetén sem.  Maga a játék gyakorlatilag megegyezik egy visszafelé játszott 301-es játékkal. Amennyiben nem tud senki kimenni, és letelik a körök száma, akkor a legtöbb ponttal rendelkezõ játékos lesz a gyõztes.
+

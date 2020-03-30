@@ -1,0 +1,47 @@
+index.html
+
+Fertõ tó
+A Fertõ tó vagy röviden – fõleg a helybéliek által használt alakjában – Fertõ (németül Neusiedler See) Magyarország északnyugati határa mentén, Sopron közelében található tó.
+A Fertõ tó Európa legnyugatabbra fekvõ sztyepptava és szikterülete. Területén Ausztria és Magyarország osztozik úgy, hogy nagyobbik része osztrák terület. Partvidéke a magyarországi Fertõ-Hanság Nemzeti Parkhoz és az ausztriai Neusiedler See–Seewinkel Nemzeti Parkhoz tartozik. A Fertõ-táj, és ennek részeként a Fertõ tó, a világörökség része. A Fertõ tó Közép-Európa harmadik legnagyobb állóvize, mintegy 20 ezer éves.
+A Balaton után Közép-Európa második legkönnyebben felmelegedõ tava. Hõmérséklete nyaranta nem ritkán eléri a 30°C-ot.
+
+tortenet.html
+
+Történet
+A Fertõ eredete és múltja sokat vitatott kérdés. Régészeti feltárások következtében tudjuk, hogy a tó környéke már az újkõkor óta lakott. A rómaiak Pelso, Pejso, illetve Peiso név alatt ismerték. A Pelso nevet a Balatonra is alkalmazták. A német Neusiedl (régebben Neusiedel) elnevezés a tatárjárás után betelepített német "vendégekre" (hospites) utal.
+A 4. században állítólag Galerius császár kiszáríttatta, de csakhamar újra megtelt vízzel. A 14. században kisebb lehetett a jelenleginél. A közepe táján volt a legkeskenyebb, ahol vámot szedtek. Az a fertõi monda, hogy több község elöntése által Giletus fraknói herceg korában jött volna létre, teljesen alaptalan. A tó gyakori áradása és apadása több oklevélben is nyomon követhetõ.
+A tónak a 19. században történõ kiszáradása volt a legnevezetesebb. 1855-ben vették észre, hogy a tó vize a rendes partjairól visszahúzódik. Eleinte igen lassan, majd szemmel láthatóan beljebb húzódott, míg 1866 júliusában teljesen eltûnt. A fennmaradt iszap annyira telítõdött vízzel, hogy veszélyes volt járni benne. A meder 1869-ig teljesen száraz volt, ezért felszántották és gazdasági épületek épültek benne. A kiszáradás oka a nagy szárazság volt, a tavat tápláló patakok vize is elapadt. A kiszáradás után belsejében sók keletkeztek, a szikpor különösen a keleti parton virágzott ki, ezt a lakók összesöpörték és szappant készítettek belõle. A kiszáradás alatt gyakran délibáb jelent meg.
+A trianoni békeszerzõdéssel vált határmenti tóvá.
+
+telepules.html
+
+Települések
+Magyarország
+Sopron
+Balf
+Fertõrákos
+Sarród
+Fertõd
+Fertõszéplak
+Hegykõ
+Fertõhomok
+Hidegség
+Fertõboz
+Nagycenk
+
+Ausztria
+Mörbisch (Fertõmeggyes)
+Rust(Ruszt)
+Oggau (Oka)
+Donnerkirchen (Fertõfehéregyháza)
+Purbach (Feketeváros)
+Breitenbrunn (Fertõszéleskút)
+Winden (Sásony)
+Jois (Nyulas)
+Neusiedl am See (Nezsider)
+Weiden (Védeny)
+Podersdorf (Pátfalu)
+Illmitz (Illmic)
+Apethlon (Mosonbánfalva)
+Pamhagen (Pomogy)
+St. Andrä am Zicksee (Mosonszentandrás)

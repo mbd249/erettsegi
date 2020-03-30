@@ -1,0 +1,25 @@
+﻿Kávékínálatunk
+Caffé Creolo 650 Ft
+kávé, szegfűszeg, szerecsendió, vaníliamag, tejszínhab, fahéj
+Caffé alla vienese (Bécsi kávé) 690 Ft
+kávé, jégdara, egy gombóc vaníliafagyi, fehér és csokis tejszínhab, desszertcsoki, csokireszelék
+Caffé alla giavanese (Jávai kávé) 650 Ft
+kávé, tej, csokoládépor, tejszínhab, desszertcsoki
+Caffé au Lait 410 Ft
+kávé, tej, vanília
+Frappé 650 Ft
+kávé, vanília, sűrített tej, daráltjég, tejszín
+Caffé Fredo 310 Ft
+kávé, cukor, daráltjég
+Caffé Irlandese 630 Ft
+kávé, szegfűszeg, szerecsendió, vaníliamag, tejszínhab, fahéj
+Caffé Macchiato 310 Ft
+eszpresszó kávé, kis tej
+Caffé Espresso 310 Ft
+eszpresszó kávé
+Con Panna 310 Ft
+eszpresszó kávé, tejszínhabbal
+Melange 410 Ft
+ristretto, tej-tejhab, tejszínhab
+Capuccino 390 Ft
+kávé, tejhab, tejszínhab

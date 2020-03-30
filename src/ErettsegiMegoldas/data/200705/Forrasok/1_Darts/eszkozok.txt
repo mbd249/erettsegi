@@ -1,0 +1,49 @@
+<table align="center" border="1" bordercolor="#ffffff" width="90%" bgcolor="#0e581d" cellpadding="10" cellspacing="0">
+
+<tr>
+       <td width="20%" valign="middle" align="center"><font size="+2">A Dartstábla</font> </td>
+       <td>Minden darts tábla, ami steel darts versenyeken használható, a következõképpen nézzen ki:
+	     <ul type="circle" >
+		 <li >rost típusú</li>
+         <li>1-20-ig terjedõ szektorokra felosztott</li>
+         <li>  belsõ központi gyûrû (Bull eyes), ami 50 pontot ér</li>  
+         <li>külsõ központi gyûrû (Bull), ami 25 pontot ér</li> 
+         <li>külsõ gyûrû (dupla), ami a szektor kétszeresének megfelelõ értéket adja</li>
+         <li>belsõ gyûrû (tripla), ami a szektor háromszorosának megfelelõ értéket adja</li>
+		 <li>drót, ami az értékeket (szektorokat) elválasztja egymástól, együtt egy hálót alkot, legyen a darts tábla elejére rögzítve olyan formában, hogy laposan feküdjön rajta.</li> 
+		 </ul>
+		 A darts táblát úgy állítsuk be, hogy a 20-as számmal jelölt szektor 
+		 legyen a sötétebb a két szín közül, és középen, a tábla tetején helyezkedjen el.
+		 <br>
+         A táblát úgy helyezzük el a falon, hogy a középpontja 1,73 méter magasan legyen.
+	   </td>
+</tr>
+<tr>
+       <td valign="middle" align="center"><font size="+2">A dobóléc</font></td>
+       <td>A dobóléc méretei: 38 mm magas és minimum 610 mm, maximum 1000 mm hosszú.
+	       <br>
+           Elhelyezés a táblától 2,37 m távolságra, horizontális síkban a darts 
+		   tábla középpontjától lelógatott függõsúly tengelyvonalában. 
+           <br> 
+           Az átfogó távolsága a bull középpontjától a dobóléc közepéig 
+		   2,93 m legyen.
+	    </td>
+</tr>
+<tr>
+       <td valign="middle" align="center"><font size="+2">A dart</font></td>
+       <td><p><b>Steel szakág esetén</b></p>
+           Hossza nem lehet több, mint 30,5 cm, a súlya nem lehet több, 
+		   mint 50 g.<br>
+           Minden dart-nak legyen tû alakú hegye (1), ami a testhez (2) rögzõdik. 
+		   A test hátsó végénél legyen a tollszár (3), amihez a tollat rögzítik.
+		   <br>
+           A darts készlet három darabból áll.
+           <br>
+		   <p><b>Soft szakág esetén</b></p>
+           A játékos hozza a saját dartját, amelynek hossza nem lehet 
+		   több 20 cm-nél, a súlya nem lehet több 18 g-nál. Az eltérés mindkét esetben plusz 10% lehet.
+		   <br> 
+           Minden dartnak legyen mûanyag, tû alakú hegye, ami a testhez rögzõdik.
+         </td>
+</tr>
+</table>

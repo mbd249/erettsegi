@@ -1,0 +1,34 @@
+L_név	L_Tm	L_Mell	L_Derék	F_név	F_Tm	F_Mell	F_Derék
+Edit	162	107	88	Dani	171	82	75
+Anna	164	74	63	Bandi	175	79	68
+Dóra	160	90	70	Peti	168	92	87
+Réka	160	80	60	Gergõ	175	77	77
+Kata	168	85	67	Viktor	172	80	77
+Juci	160	86	62	Tamás	165	71	70
+Ivett	163	83	60	Sanyi	163	78	70
+Szilvi	170	92	73	Pisti	174	74	69
+Móni	160	83	68	Feri	170	87	85
+Vera	164	82	61	Karcsi	161	79	72
+Kriszti	165	80	65	Misi	170	92	88
+Nóra	169	88	72	Bálint	168	71	70
+
+
+
+
+Nõi méretek				
+Mellbõség	Méret
+74	32
+78	34
+82	36
+86	38
+89	40
+93	42
+98	44
+103	46
+108	48
+114	50
+120	52
+126	54
+132	56
+138	58
+144	60

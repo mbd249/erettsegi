@@ -1,0 +1,7 @@
+﻿Körjegyzőség kódja	A körjegyzőségi kód jelentése
+1	önálló polgármesteri hivatalt működtető önkormányzat
+2	önálló polgármesteri hivatalt működtető önkormányzat, amely más önkormányzatok körjegyzői hivatalának is helyet biztosít
+3	önálló polgármesteri hivatalt működtető és körjegyzőségi székhely megyei jogú város, város, nagyközség önkormányzata, ahol a városi, nagyközségi jegyző látja el a körjegyzői feladatokat
+4	körjegyzőséghez csatlakozott község önkormányzata, amely egyben a körjegyzőség székhelye
+5	körjegyzőséghez csatlakozott község önkormányzata, amely egyben a körjegyzőség székhelye, ezenkívül más önkormányzatok körjegyzői hivatalának is helyet biztosít
+6	körjegyzőséghez csatlakozott község önkormányzata, a körjegyzőség székhelye más helységben van

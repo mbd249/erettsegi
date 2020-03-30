@@ -1,0 +1,962 @@
+id	datum	nev
+1	1999.10.02	rumba
+2	1999.10.02	jive
+3	1999.10.02	bécsi keringő
+4	1999.10.02	angol keringő
+5	1999.10.02	paso doble
+6	1999.10.02	jive
+7	1999.10.02	cha-cha-cha
+8	1999.10.02	mambo
+9	1999.10.02	bécsi keringő
+10	1999.10.02	paso doble
+11	1999.10.02	jive
+12	1999.10.02	rumba
+13	1999.10.30	slow foxtrott
+14	1999.10.30	mambo
+15	1999.10.30	jive
+16	1999.10.30	jive
+17	1999.10.30	cha-cha-cha
+18	1999.10.30	cha-cha-cha
+19	1999.10.30	bécsi keringő
+20	1999.10.30	paso doble
+21	1999.10.30	mambo
+22	1999.10.30	slow foxtrott
+23	1999.11.27	rumba
+24	1999.11.27	bécsi keringő
+25	1999.11.27	slow foxtrott
+26	1999.11.27	mambo
+27	1999.11.27	samba
+28	1999.11.27	mambo
+29	1999.11.27	tangó
+30	1999.11.27	slow foxtrott
+31	1999.11.27	cha-cha-cha
+32	1999.11.27	paso doble
+33	1999.11.27	tangó
+34	1999.11.27	angol keringő
+35	1999.11.27	rumba
+36	1999.11.27	paso doble
+37	1999.11.27	samba
+38	1999.11.27	paso doble
+39	1999.11.27	tangó
+40	1999.12.25	bécsi keringő
+41	1999.12.25	bécsi keringő
+42	1999.12.25	mambo
+43	1999.12.25	tangó
+44	1999.12.25	slow foxtrott
+45	1999.12.25	rumba
+46	1999.12.25	tangó
+47	1999.12.25	slow foxtrott
+48	1999.12.25	rumba
+49	1999.12.25	samba
+50	1999.12.25	samba
+51	2000.01.22	jive
+52	2000.01.22	angol keringő
+53	2000.01.22	paso doble
+54	2000.01.22	cha-cha-cha
+55	2000.01.22	slow foxtrott
+56	2000.01.22	paso doble
+57	2000.01.22	tangó
+58	2000.01.22	angol keringő
+59	2000.01.22	paso doble
+60	2000.01.22	mambo
+61	2000.01.22	samba
+62	2000.01.22	angol keringő
+63	2000.02.19	rumba
+64	2000.02.19	angol keringő
+65	2000.02.19	angol keringő
+66	2000.02.19	samba
+67	2000.02.19	bécsi keringő
+68	2000.02.19	bécsi keringő
+69	2000.02.19	angol keringő
+70	2000.02.19	tangó
+71	2000.02.19	jive
+72	2000.02.19	paso doble
+73	2000.03.18	rumba
+74	2000.03.18	tangó
+75	2000.03.18	jive
+76	2000.03.18	angol keringő
+77	2000.03.18	tangó
+78	2000.03.18	paso doble
+79	2000.03.18	bécsi keringő
+80	2000.03.18	angol keringő
+81	2000.03.18	angol keringő
+82	2000.03.18	rumba
+83	2000.03.18	rumba
+84	2000.03.18	samba
+85	2000.03.18	mambo
+86	2000.03.18	jive
+87	2000.03.18	samba
+88	2000.04.15	angol keringő
+89	2000.04.15	jive
+90	2000.04.15	bécsi keringő
+91	2000.04.15	bécsi keringő
+92	2000.04.15	angol keringő
+93	2000.04.15	jive
+94	2000.04.15	samba
+95	2000.04.15	bécsi keringő
+96	2000.04.15	rumba
+97	2000.04.15	samba
+98	2000.04.15	paso doble
+99	2000.04.15	bécsi keringő
+100	2000.04.15	rumba
+101	2000.05.13	bécsi keringő
+102	2000.05.13	jive
+103	2000.05.13	slow foxtrott
+104	2000.05.13	cha-cha-cha
+105	2000.05.13	samba
+106	2000.05.13	samba
+107	2000.05.13	bécsi keringő
+108	2000.05.13	slow foxtrott
+109	2000.05.13	tangó
+110	2000.05.13	slow foxtrott
+111	2000.05.13	slow foxtrott
+112	2000.06.10	jive
+113	2000.06.10	angol keringő
+114	2000.06.10	paso doble
+115	2000.06.10	slow foxtrott
+116	2000.06.10	tangó
+117	2000.06.10	mambo
+118	2000.06.10	paso doble
+119	2000.06.10	tangó
+120	2000.06.10	angol keringő
+121	2000.06.10	slow foxtrott
+122	2000.06.10	slow foxtrott
+123	2000.07.08	angol keringő
+124	2000.07.08	paso doble
+125	2000.07.08	samba
+126	2000.07.08	rumba
+127	2000.07.08	samba
+128	2000.07.08	tangó
+129	2000.07.08	rumba
+130	2000.07.08	paso doble
+131	2000.07.08	samba
+132	2000.07.08	samba
+133	2000.08.05	angol keringő
+134	2000.08.05	bécsi keringő
+135	2000.08.05	paso doble
+136	2000.08.05	tangó
+137	2000.08.05	tangó
+138	2000.08.05	rumba
+139	2000.08.05	tangó
+140	2000.08.05	jive
+141	2000.08.05	tangó
+142	2000.08.05	mambo
+143	2000.09.02	paso doble
+144	2000.09.02	angol keringő
+145	2000.09.02	cha-cha-cha
+146	2000.09.02	slow foxtrott
+147	2000.09.02	paso doble
+148	2000.09.02	rumba
+149	2000.09.02	bécsi keringő
+150	2000.09.02	samba
+151	2000.09.02	rumba
+152	2000.09.02	samba
+153	2000.09.02	tangó
+154	2000.09.30	slow foxtrott
+155	2000.09.30	samba
+156	2000.09.30	mambo
+157	2000.09.30	mambo
+158	2000.09.30	jive
+159	2000.09.30	rumba
+160	2000.09.30	paso doble
+161	2000.09.30	jive
+162	2000.09.30	bécsi keringő
+163	2000.09.30	cha-cha-cha
+164	2000.09.30	samba
+165	2000.09.30	paso doble
+166	2000.10.28	angol keringő
+167	2000.10.28	jive
+168	2000.10.28	paso doble
+169	2000.10.28	cha-cha-cha
+170	2000.10.28	slow foxtrott
+171	2000.10.28	angol keringő
+172	2000.10.28	rumba
+173	2000.10.28	rumba
+174	2000.10.28	slow foxtrott
+175	2000.10.28	cha-cha-cha
+176	2000.11.25	samba
+177	2000.11.25	slow foxtrott
+178	2000.11.25	rumba
+179	2000.11.25	samba
+180	2000.11.25	cha-cha-cha
+181	2000.11.25	rumba
+182	2000.11.25	jive
+183	2000.11.25	bécsi keringő
+184	2000.11.25	slow foxtrott
+185	2000.11.25	cha-cha-cha
+186	2000.12.23	tangó
+187	2000.12.23	mambo
+188	2000.12.23	rumba
+189	2000.12.23	slow foxtrott
+190	2000.12.23	angol keringő
+191	2000.12.23	angol keringő
+192	2000.12.23	tangó
+193	2000.12.23	mambo
+194	2000.12.23	bécsi keringő
+195	2000.12.23	bécsi keringő
+196	2000.12.23	tangó
+197	2000.12.23	mambo
+198	2001.01.20	jive
+199	2001.01.20	mambo
+200	2001.01.20	angol keringő
+201	2001.01.20	mambo
+202	2001.01.20	samba
+203	2001.01.20	paso doble
+204	2001.01.20	bécsi keringő
+205	2001.01.20	tangó
+206	2001.01.20	mambo
+207	2001.01.20	slow foxtrott
+208	2001.01.20	paso doble
+209	2001.01.20	mambo
+210	2001.01.20	samba
+211	2001.01.20	paso doble
+212	2001.01.20	bécsi keringő
+213	2001.01.20	slow foxtrott
+214	2001.01.20	cha-cha-cha
+215	2001.02.17	bécsi keringő
+216	2001.02.17	tangó
+217	2001.02.17	angol keringő
+218	2001.02.17	mambo
+219	2001.02.17	samba
+220	2001.02.17	slow foxtrott
+221	2001.02.17	bécsi keringő
+222	2001.02.17	samba
+223	2001.02.17	bécsi keringő
+224	2001.02.17	mambo
+225	2001.02.17	paso doble
+226	2001.03.17	paso doble
+227	2001.03.17	samba
+228	2001.03.17	slow foxtrott
+229	2001.03.17	paso doble
+230	2001.03.17	slow foxtrott
+231	2001.03.17	cha-cha-cha
+232	2001.03.17	cha-cha-cha
+233	2001.03.17	samba
+234	2001.03.17	mambo
+235	2001.03.17	tangó
+236	2001.04.14	tangó
+237	2001.04.14	jive
+238	2001.04.14	mambo
+239	2001.04.14	jive
+240	2001.04.14	jive
+241	2001.04.14	mambo
+242	2001.04.14	paso doble
+243	2001.04.14	tangó
+244	2001.04.14	cha-cha-cha
+245	2001.04.14	cha-cha-cha
+246	2001.05.12	mambo
+247	2001.05.12	bécsi keringő
+248	2001.05.12	tangó
+249	2001.05.12	mambo
+250	2001.05.12	paso doble
+251	2001.05.12	samba
+252	2001.05.12	paso doble
+253	2001.05.12	mambo
+254	2001.05.12	angol keringő
+255	2001.05.12	tangó
+256	2001.06.09	rumba
+257	2001.06.09	angol keringő
+258	2001.06.09	tangó
+259	2001.06.09	angol keringő
+260	2001.06.09	samba
+261	2001.06.09	samba
+262	2001.06.09	samba
+263	2001.06.09	cha-cha-cha
+264	2001.06.09	samba
+265	2001.06.09	bécsi keringő
+266	2001.07.07	jive
+267	2001.07.07	rumba
+268	2001.07.07	angol keringő
+269	2001.07.07	mambo
+270	2001.07.07	rumba
+271	2001.07.07	angol keringő
+272	2001.07.07	cha-cha-cha
+273	2001.07.07	bécsi keringő
+274	2001.07.07	bécsi keringő
+275	2001.07.07	slow foxtrott
+276	2001.08.04	cha-cha-cha
+277	2001.08.04	slow foxtrott
+278	2001.08.04	mambo
+279	2001.08.04	jive
+280	2001.08.04	bécsi keringő
+281	2001.08.04	mambo
+282	2001.08.04	samba
+283	2001.08.04	paso doble
+284	2001.08.04	paso doble
+285	2001.08.04	tangó
+286	2001.08.04	samba
+287	2001.08.04	tangó
+288	2001.08.04	bécsi keringő
+289	2001.08.04	rumba
+290	2001.08.04	jive
+291	2001.08.04	mambo
+292	2001.08.04	paso doble
+293	2001.08.04	bécsi keringő
+294	2001.08.04	jive
+295	2001.08.04	mambo
+296	2001.09.01	bécsi keringő
+297	2001.09.01	samba
+298	2001.09.01	mambo
+299	2001.09.01	paso doble
+300	2001.09.01	jive
+301	2001.09.01	paso doble
+302	2001.09.01	bécsi keringő
+303	2001.09.01	jive
+304	2001.09.01	mambo
+305	2001.09.01	angol keringő
+306	2001.09.01	jive
+307	2001.09.01	jive
+308	2001.09.01	paso doble
+309	2001.09.29	jive
+310	2001.09.29	jive
+311	2001.09.29	samba
+312	2001.09.29	samba
+313	2001.09.29	rumba
+314	2001.09.29	paso doble
+315	2001.09.29	bécsi keringő
+316	2001.09.29	bécsi keringő
+317	2001.09.29	samba
+318	2001.09.29	tangó
+319	2001.09.29	slow foxtrott
+320	2001.10.27	tangó
+321	2001.10.27	rumba
+322	2001.10.27	jive
+323	2001.10.27	slow foxtrott
+324	2001.10.27	samba
+325	2001.10.27	slow foxtrott
+326	2001.10.27	samba
+327	2001.10.27	samba
+328	2001.10.27	angol keringő
+329	2001.10.27	samba
+330	2001.10.27	samba
+331	2001.10.27	samba
+332	2001.10.27	angol keringő
+333	2001.10.27	bécsi keringő
+334	2001.11.24	cha-cha-cha
+335	2001.11.24	mambo
+336	2001.11.24	paso doble
+337	2001.11.24	cha-cha-cha
+338	2001.11.24	rumba
+339	2001.11.24	paso doble
+340	2001.11.24	rumba
+341	2001.11.24	samba
+342	2001.11.24	bécsi keringő
+343	2001.11.24	samba
+344	2001.11.24	angol keringő
+345	2001.11.24	samba
+346	2001.12.22	samba
+347	2001.12.22	cha-cha-cha
+348	2001.12.22	slow foxtrott
+349	2001.12.22	paso doble
+350	2001.12.22	paso doble
+351	2001.12.22	bécsi keringő
+352	2001.12.22	rumba
+353	2001.12.22	angol keringő
+354	2001.12.22	bécsi keringő
+355	2001.12.22	bécsi keringő
+356	2001.12.22	cha-cha-cha
+357	2001.12.22	samba
+358	2001.12.22	cha-cha-cha
+359	2001.12.22	cha-cha-cha
+360	2001.12.22	bécsi keringő
+361	2001.12.22	jive
+362	2001.12.22	cha-cha-cha
+363	2001.12.22	angol keringő
+364	2001.12.22	samba
+365	2001.12.22	rumba
+366	2002.01.19	bécsi keringő
+367	2002.01.19	angol keringő
+368	2002.01.19	mambo
+369	2002.01.19	bécsi keringő
+370	2002.01.19	cha-cha-cha
+371	2002.01.19	slow foxtrott
+372	2002.01.19	slow foxtrott
+373	2002.01.19	samba
+374	2002.01.19	rumba
+375	2002.01.19	tangó
+376	2002.01.19	tangó
+377	2002.01.19	cha-cha-cha
+378	2002.01.19	tangó
+379	2002.01.19	mambo
+380	2002.01.19	rumba
+381	2002.02.16	angol keringő
+382	2002.02.16	paso doble
+383	2002.02.16	cha-cha-cha
+384	2002.02.16	rumba
+385	2002.02.16	tangó
+386	2002.02.16	cha-cha-cha
+387	2002.02.16	jive
+388	2002.02.16	tangó
+389	2002.02.16	rumba
+390	2002.02.16	mambo
+391	2002.02.16	cha-cha-cha
+392	2002.03.16	tangó
+393	2002.03.16	angol keringő
+394	2002.03.16	paso doble
+395	2002.03.16	rumba
+396	2002.03.16	cha-cha-cha
+397	2002.03.16	slow foxtrott
+398	2002.03.16	bécsi keringő
+399	2002.03.16	paso doble
+400	2002.03.16	bécsi keringő
+401	2002.03.16	slow foxtrott
+402	2002.03.16	rumba
+403	2002.03.16	slow foxtrott
+404	2002.04.13	cha-cha-cha
+405	2002.04.13	cha-cha-cha
+406	2002.04.13	mambo
+407	2002.04.13	rumba
+408	2002.04.13	cha-cha-cha
+409	2002.04.13	tangó
+410	2002.04.13	mambo
+411	2002.04.13	paso doble
+412	2002.04.13	samba
+413	2002.04.13	slow foxtrott
+414	2002.04.13	samba
+415	2002.05.11	samba
+416	2002.05.11	rumba
+417	2002.05.11	paso doble
+418	2002.05.11	angol keringő
+419	2002.05.11	bécsi keringő
+420	2002.05.11	angol keringő
+421	2002.05.11	samba
+422	2002.05.11	bécsi keringő
+423	2002.05.11	jive
+424	2002.05.11	samba
+425	2002.06.08	mambo
+426	2002.06.08	mambo
+427	2002.06.08	samba
+428	2002.06.08	angol keringő
+429	2002.06.08	angol keringő
+430	2002.06.08	rumba
+431	2002.06.08	mambo
+432	2002.06.08	tangó
+433	2002.06.08	slow foxtrott
+434	2002.06.08	jive
+435	2002.07.06	bécsi keringő
+436	2002.07.06	samba
+437	2002.07.06	bécsi keringő
+438	2002.07.06	angol keringő
+439	2002.07.06	cha-cha-cha
+440	2002.07.06	jive
+441	2002.07.06	bécsi keringő
+442	2002.07.06	jive
+443	2002.07.06	bécsi keringő
+444	2002.07.06	mambo
+445	2002.07.06	paso doble
+446	2002.08.03	tangó
+447	2002.08.03	paso doble
+448	2002.08.03	rumba
+449	2002.08.03	angol keringő
+450	2002.08.03	mambo
+451	2002.08.03	angol keringő
+452	2002.08.03	rumba
+453	2002.08.03	cha-cha-cha
+454	2002.08.03	mambo
+455	2002.08.03	samba
+456	2002.08.03	jive
+457	2002.08.31	cha-cha-cha
+458	2002.08.31	tangó
+459	2002.08.31	jive
+460	2002.08.31	rumba
+461	2002.08.31	jive
+462	2002.08.31	angol keringő
+463	2002.08.31	rumba
+464	2002.08.31	rumba
+465	2002.08.31	tangó
+466	2002.08.31	cha-cha-cha
+467	2002.08.31	tangó
+468	2002.09.28	rumba
+469	2002.09.28	tangó
+470	2002.09.28	paso doble
+471	2002.09.28	bécsi keringő
+472	2002.09.28	mambo
+473	2002.09.28	paso doble
+474	2002.09.28	samba
+475	2002.09.28	jive
+476	2002.09.28	jive
+477	2002.09.28	slow foxtrott
+478	2002.09.28	angol keringő
+479	2002.09.28	tangó
+480	2002.10.26	bécsi keringő
+481	2002.10.26	rumba
+482	2002.10.26	tangó
+483	2002.10.26	rumba
+484	2002.10.26	samba
+485	2002.10.26	samba
+486	2002.10.26	cha-cha-cha
+487	2002.10.26	cha-cha-cha
+488	2002.10.26	angol keringő
+489	2002.10.26	samba
+490	2002.10.26	tangó
+491	2002.10.26	jive
+492	2002.10.26	tangó
+493	2002.11.23	rumba
+494	2002.11.23	angol keringő
+495	2002.11.23	mambo
+496	2002.11.23	cha-cha-cha
+497	2002.11.23	paso doble
+498	2002.11.23	cha-cha-cha
+499	2002.11.23	paso doble
+500	2002.11.23	angol keringő
+501	2002.11.23	mambo
+502	2002.11.23	bécsi keringő
+503	2002.11.23	samba
+504	2002.12.21	rumba
+505	2002.12.21	rumba
+506	2002.12.21	paso doble
+507	2002.12.21	cha-cha-cha
+508	2002.12.21	paso doble
+509	2002.12.21	cha-cha-cha
+510	2002.12.21	bécsi keringő
+511	2002.12.21	mambo
+512	2002.12.21	jive
+513	2002.12.21	cha-cha-cha
+514	2002.12.21	paso doble
+515	2003.01.18	paso doble
+516	2003.01.18	tangó
+517	2003.01.18	angol keringő
+518	2003.01.18	cha-cha-cha
+519	2003.01.18	jive
+520	2003.01.18	paso doble
+521	2003.01.18	slow foxtrott
+522	2003.01.18	angol keringő
+523	2003.01.18	bécsi keringő
+524	2003.01.18	angol keringő
+525	2003.01.18	jive
+526	2003.01.18	angol keringő
+527	2003.01.18	cha-cha-cha
+528	2003.01.18	slow foxtrott
+529	2003.01.18	slow foxtrott
+530	2003.01.18	mambo
+531	2003.01.18	cha-cha-cha
+532	2003.01.18	mambo
+533	2003.02.15	bécsi keringő
+534	2003.02.15	jive
+535	2003.02.15	jive
+536	2003.02.15	jive
+537	2003.02.15	paso doble
+538	2003.02.15	jive
+539	2003.02.15	cha-cha-cha
+540	2003.02.15	samba
+541	2003.02.15	bécsi keringő
+542	2003.02.15	bécsi keringő
+543	2003.02.15	jive
+544	2003.02.15	slow foxtrott
+545	2003.02.15	cha-cha-cha
+546	2003.02.15	slow foxtrott
+547	2003.03.15	bécsi keringő
+548	2003.03.15	angol keringő
+549	2003.03.15	bécsi keringő
+550	2003.03.15	mambo
+551	2003.03.15	bécsi keringő
+552	2003.03.15	slow foxtrott
+553	2003.03.15	tangó
+554	2003.03.15	tangó
+555	2003.03.15	rumba
+556	2003.03.15	samba
+557	2003.04.12	slow foxtrott
+558	2003.04.12	bécsi keringő
+559	2003.04.12	rumba
+560	2003.04.12	paso doble
+561	2003.04.12	mambo
+562	2003.04.12	tangó
+563	2003.04.12	cha-cha-cha
+564	2003.04.12	rumba
+565	2003.04.12	jive
+566	2003.04.12	rumba
+567	2003.04.12	mambo
+568	2003.05.10	rumba
+569	2003.05.10	rumba
+570	2003.05.10	tangó
+571	2003.05.10	jive
+572	2003.05.10	jive
+573	2003.05.10	cha-cha-cha
+574	2003.05.10	slow foxtrott
+575	2003.05.10	jive
+576	2003.05.10	bécsi keringő
+577	2003.05.10	paso doble
+578	2003.06.07	tangó
+579	2003.06.07	jive
+580	2003.06.07	cha-cha-cha
+581	2003.06.07	cha-cha-cha
+582	2003.06.07	jive
+583	2003.06.07	bécsi keringő
+584	2003.06.07	bécsi keringő
+585	2003.06.07	tangó
+586	2003.06.07	bécsi keringő
+587	2003.06.07	cha-cha-cha
+588	2003.06.07	cha-cha-cha
+589	2003.06.07	samba
+590	2003.06.07	rumba
+591	2003.07.05	cha-cha-cha
+592	2003.07.05	jive
+593	2003.07.05	tangó
+594	2003.07.05	jive
+595	2003.07.05	mambo
+596	2003.07.05	cha-cha-cha
+597	2003.07.05	slow foxtrott
+598	2003.07.05	samba
+599	2003.07.05	samba
+600	2003.07.05	angol keringő
+601	2003.07.05	cha-cha-cha
+602	2003.07.05	rumba
+603	2003.08.02	rumba
+604	2003.08.02	samba
+605	2003.08.02	tangó
+606	2003.08.02	jive
+607	2003.08.02	paso doble
+608	2003.08.02	cha-cha-cha
+609	2003.08.02	bécsi keringő
+610	2003.08.02	slow foxtrott
+611	2003.08.02	samba
+612	2003.08.02	rumba
+613	2003.08.02	jive
+614	2003.08.02	samba
+615	2003.08.30	angol keringő
+616	2003.08.30	jive
+617	2003.08.30	tangó
+618	2003.08.30	cha-cha-cha
+619	2003.08.30	tangó
+620	2003.08.30	tangó
+621	2003.08.30	samba
+622	2003.08.30	cha-cha-cha
+623	2003.08.30	angol keringő
+624	2003.08.30	samba
+625	2003.08.30	paso doble
+626	2003.08.30	rumba
+627	2003.08.30	paso doble
+628	2003.09.27	angol keringő
+629	2003.09.27	paso doble
+630	2003.09.27	cha-cha-cha
+631	2003.09.27	angol keringő
+632	2003.09.27	tangó
+633	2003.09.27	slow foxtrott
+634	2003.09.27	rumba
+635	2003.09.27	rumba
+636	2003.09.27	paso doble
+637	2003.09.27	cha-cha-cha
+638	2003.10.25	tangó
+639	2003.10.25	slow foxtrott
+640	2003.10.25	slow foxtrott
+641	2003.10.25	tangó
+642	2003.10.25	samba
+643	2003.10.25	samba
+644	2003.10.25	cha-cha-cha
+645	2003.10.25	slow foxtrott
+646	2003.10.25	jive
+647	2003.10.25	samba
+648	2003.11.22	cha-cha-cha
+649	2003.11.22	jive
+650	2003.11.22	cha-cha-cha
+651	2003.11.22	tangó
+652	2003.11.22	paso doble
+653	2003.11.22	mambo
+654	2003.11.22	bécsi keringő
+655	2003.11.22	jive
+656	2003.11.22	samba
+657	2003.11.22	rumba
+658	2003.11.22	cha-cha-cha
+659	2003.12.20	cha-cha-cha
+660	2003.12.20	mambo
+661	2003.12.20	cha-cha-cha
+662	2003.12.20	cha-cha-cha
+663	2003.12.20	paso doble
+664	2003.12.20	angol keringő
+665	2003.12.20	paso doble
+666	2003.12.20	rumba
+667	2003.12.20	paso doble
+668	2003.12.20	samba
+669	2004.01.17	tangó
+670	2004.01.17	bécsi keringő
+671	2004.01.17	angol keringő
+672	2004.01.17	cha-cha-cha
+673	2004.01.17	jive
+674	2004.01.17	samba
+675	2004.01.17	paso doble
+676	2004.01.17	angol keringő
+677	2004.01.17	mambo
+678	2004.01.17	jive
+679	2004.01.17	jive
+680	2004.02.14	cha-cha-cha
+681	2004.02.14	jive
+682	2004.02.14	mambo
+683	2004.02.14	angol keringő
+684	2004.02.14	paso doble
+685	2004.02.14	jive
+686	2004.02.14	jive
+687	2004.02.14	tangó
+688	2004.02.14	slow foxtrott
+689	2004.02.14	bécsi keringő
+690	2004.02.14	samba
+691	2004.02.14	samba
+692	2004.02.14	mambo
+693	2004.03.13	slow foxtrott
+694	2004.03.13	cha-cha-cha
+695	2004.03.13	jive
+696	2004.03.13	rumba
+697	2004.03.13	cha-cha-cha
+698	2004.03.13	paso doble
+699	2004.03.13	samba
+700	2004.03.13	bécsi keringő
+701	2004.03.13	tangó
+702	2004.03.13	cha-cha-cha
+703	2004.03.13	samba
+704	2004.04.10	rumba
+705	2004.04.10	rumba
+706	2004.04.10	paso doble
+707	2004.04.10	bécsi keringő
+708	2004.04.10	jive
+709	2004.04.10	paso doble
+710	2004.04.10	angol keringő
+711	2004.04.10	tangó
+712	2004.04.10	cha-cha-cha
+713	2004.04.10	angol keringő
+714	2004.04.10	cha-cha-cha
+715	2004.05.08	cha-cha-cha
+716	2004.05.08	angol keringő
+717	2004.05.08	angol keringő
+718	2004.05.08	rumba
+719	2004.05.08	samba
+720	2004.05.08	paso doble
+721	2004.05.08	angol keringő
+722	2004.05.08	samba
+723	2004.05.08	bécsi keringő
+724	2004.05.08	angol keringő
+725	2004.05.08	tangó
+726	2004.05.08	jive
+727	2004.05.08	bécsi keringő
+728	2004.05.08	jive
+729	2004.05.08	slow foxtrott
+730	2004.05.08	jive
+731	2004.06.05	angol keringő
+732	2004.06.05	bécsi keringő
+733	2004.06.05	mambo
+734	2004.06.05	samba
+735	2004.06.05	bécsi keringő
+736	2004.06.05	bécsi keringő
+737	2004.06.05	cha-cha-cha
+738	2004.06.05	paso doble
+739	2004.06.05	rumba
+740	2004.06.05	angol keringő
+741	2004.06.05	cha-cha-cha
+742	2004.07.03	cha-cha-cha
+743	2004.07.03	paso doble
+744	2004.07.03	jive
+745	2004.07.03	tangó
+746	2004.07.03	angol keringő
+747	2004.07.03	rumba
+748	2004.07.03	mambo
+749	2004.07.03	bécsi keringő
+750	2004.07.03	rumba
+751	2004.07.03	angol keringő
+752	2004.07.03	slow foxtrott
+753	2004.07.03	mambo
+754	2004.07.31	bécsi keringő
+755	2004.07.31	rumba
+756	2004.07.31	tangó
+757	2004.07.31	slow foxtrott
+758	2004.07.31	paso doble
+759	2004.07.31	paso doble
+760	2004.07.31	mambo
+761	2004.07.31	paso doble
+762	2004.07.31	cha-cha-cha
+763	2004.07.31	rumba
+764	2004.08.28	samba
+765	2004.08.28	angol keringő
+766	2004.08.28	tangó
+767	2004.08.28	cha-cha-cha
+768	2004.08.28	bécsi keringő
+769	2004.08.28	tangó
+770	2004.08.28	mambo
+771	2004.08.28	bécsi keringő
+772	2004.08.28	paso doble
+773	2004.08.28	samba
+774	2004.08.28	jive
+775	2004.08.28	tangó
+776	2004.09.25	slow foxtrott
+777	2004.09.25	angol keringő
+778	2004.09.25	jive
+779	2004.09.25	jive
+780	2004.09.25	paso doble
+781	2004.09.25	rumba
+782	2004.09.25	bécsi keringő
+783	2004.09.25	samba
+784	2004.09.25	rumba
+785	2004.09.25	slow foxtrott
+786	2004.09.25	samba
+787	2004.10.23	angol keringő
+788	2004.10.23	mambo
+789	2004.10.23	angol keringő
+790	2004.10.23	angol keringő
+791	2004.10.23	cha-cha-cha
+792	2004.10.23	cha-cha-cha
+793	2004.10.23	jive
+794	2004.10.23	mambo
+795	2004.10.23	samba
+796	2004.10.23	tangó
+797	2004.10.23	tangó
+798	2004.10.23	mambo
+799	2004.10.23	paso doble
+800	2004.11.20	samba
+801	2004.11.20	angol keringő
+802	2004.11.20	bécsi keringő
+803	2004.11.20	cha-cha-cha
+804	2004.11.20	angol keringő
+805	2004.11.20	samba
+806	2004.11.20	tangó
+807	2004.11.20	jive
+808	2004.11.20	cha-cha-cha
+809	2004.11.20	slow foxtrott
+810	2004.11.20	tangó
+811	2004.11.20	slow foxtrott
+812	2004.12.18	slow foxtrott
+813	2004.12.18	rumba
+814	2004.12.18	angol keringő
+815	2004.12.18	tangó
+816	2004.12.18	cha-cha-cha
+817	2004.12.18	tangó
+818	2004.12.18	rumba
+819	2004.12.18	rumba
+820	2004.12.18	jive
+821	2004.12.18	tangó
+822	2004.12.18	rumba
+823	2004.12.18	angol keringő
+824	2005.01.15	angol keringő
+825	2005.01.15	bécsi keringő
+826	2005.01.15	tangó
+827	2005.01.15	slow foxtrott
+828	2005.01.15	paso doble
+829	2005.01.15	bécsi keringő
+830	2005.01.15	samba
+831	2005.01.15	paso doble
+832	2005.01.15	tangó
+833	2005.01.15	bécsi keringő
+834	2005.02.12	bécsi keringő
+835	2005.02.12	samba
+836	2005.02.12	angol keringő
+837	2005.02.12	angol keringő
+838	2005.02.12	jive
+839	2005.02.12	cha-cha-cha
+840	2005.02.12	rumba
+841	2005.02.12	paso doble
+842	2005.02.12	samba
+843	2005.02.12	cha-cha-cha
+844	2005.03.12	cha-cha-cha
+845	2005.03.12	samba
+846	2005.03.12	angol keringő
+847	2005.03.12	jive
+848	2005.03.12	samba
+849	2005.03.12	rumba
+850	2005.03.12	rumba
+851	2005.03.12	mambo
+852	2005.03.12	angol keringő
+853	2005.03.12	bécsi keringő
+854	2005.04.09	jive
+855	2005.04.09	tangó
+856	2005.04.09	rumba
+857	2005.04.09	tangó
+858	2005.04.09	paso doble
+859	2005.04.09	paso doble
+860	2005.04.09	tangó
+861	2005.04.09	jive
+862	2005.04.09	slow foxtrott
+863	2005.04.09	bécsi keringő
+864	2005.04.09	bécsi keringő
+865	2005.04.09	paso doble
+866	2005.04.09	angol keringő
+867	2005.05.07	slow foxtrott
+868	2005.05.07	jive
+869	2005.05.07	cha-cha-cha
+870	2005.05.07	paso doble
+871	2005.05.07	angol keringő
+872	2005.05.07	slow foxtrott
+873	2005.05.07	angol keringő
+874	2005.05.07	jive
+875	2005.05.07	paso doble
+876	2005.05.07	tangó
+877	2005.06.04	paso doble
+878	2005.06.04	bécsi keringő
+879	2005.06.04	cha-cha-cha
+880	2005.06.04	mambo
+881	2005.06.04	cha-cha-cha
+882	2005.06.04	samba
+883	2005.06.04	angol keringő
+884	2005.06.04	cha-cha-cha
+885	2005.06.04	samba
+886	2005.06.04	cha-cha-cha
+887	2005.06.04	paso doble
+888	2005.07.02	cha-cha-cha
+889	2005.07.02	slow foxtrott
+890	2005.07.02	cha-cha-cha
+891	2005.07.02	jive
+892	2005.07.02	cha-cha-cha
+893	2005.07.02	bécsi keringő
+894	2005.07.02	mambo
+895	2005.07.02	samba
+896	2005.07.02	tangó
+897	2005.07.02	tangó
+898	2005.07.02	slow foxtrott
+899	2005.07.30	slow foxtrott
+900	2005.07.30	jive
+901	2005.07.30	rumba
+902	2005.07.30	paso doble
+903	2005.07.30	rumba
+904	2005.07.30	cha-cha-cha
+905	2005.07.30	bécsi keringő
+906	2005.07.30	samba
+907	2005.07.30	tangó
+908	2005.07.30	rumba
+909	2005.07.30	mambo
+910	2005.07.30	jive
+911	2005.07.30	angol keringő
+912	2005.08.27	paso doble
+913	2005.08.27	samba
+914	2005.08.27	angol keringő
+915	2005.08.27	samba
+916	2005.08.27	jive
+917	2005.08.27	tangó
+918	2005.08.27	bécsi keringő
+919	2005.08.27	angol keringő
+920	2005.08.27	mambo
+921	2005.08.27	tangó
+922	2005.09.24	mambo
+923	2005.09.24	cha-cha-cha
+924	2005.09.24	rumba
+925	2005.09.24	cha-cha-cha
+926	2005.09.24	mambo
+927	2005.09.24	angol keringő
+928	2005.09.24	cha-cha-cha
+929	2005.09.24	paso doble
+930	2005.09.24	bécsi keringő
+931	2005.09.24	samba
+932	2005.10.22	rumba
+933	2005.10.22	bécsi keringő
+934	2005.10.22	bécsi keringő
+935	2005.10.22	rumba
+936	2005.10.22	angol keringő
+937	2005.10.22	slow foxtrott
+938	2005.10.22	tangó
+939	2005.10.22	slow foxtrott
+940	2005.10.22	slow foxtrott
+941	2005.10.22	mambo
+942	2005.10.22	rumba
+943	2005.11.19	cha-cha-cha
+944	2005.11.19	mambo
+945	2005.11.19	rumba
+946	2005.11.19	paso doble
+947	2005.11.19	cha-cha-cha
+948	2005.11.19	angol keringő
+949	2005.11.19	slow foxtrott
+950	2005.11.19	mambo
+951	2005.11.19	tangó
+952	2005.11.19	angol keringő
+953	2005.12.17	angol keringő
+954	2005.12.17	rumba
+955	2005.12.17	slow foxtrott
+956	2005.12.17	slow foxtrott
+957	2005.12.17	samba
+958	2005.12.17	bécsi keringő
+959	2005.12.17	tangó
+960	2005.12.17	jive
+961	2005.12.17	rumba

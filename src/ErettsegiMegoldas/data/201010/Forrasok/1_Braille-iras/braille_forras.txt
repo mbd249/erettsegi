@@ -1,0 +1,18 @@
+pontiras.html
+A Braille-írás, más néven pontírás, a vakok számára készült és általuk használt, általánosan elfogadott írásrendszer. Minden jel a papír síkjából kiemelkedõ hat pont kombinációja. A Braille-jeleket sorokban nyomják a papírba, és úgy olvassák, hogy az ujjukat könnyedén végigvezetik a sorokon. Ezt a speciális technikát alkalmazó ábécét a francia Louis Braille találta ki 1821-ben a vak emberek számára. Segítségével lehetõvé vált a vakok számára is az írás és olvasás elsajátítása.
+Különleges Braille-jelek, illetve jelmódosítások léteznek a kottaírásra, a gyorsírásra és persze a világ legtöbb nyelvére, továbbá ma már olyan hatbillentyûs írógépek is vannak, melyeken egy-egy billentyû a Braille-féle hatpontos jel egy-egy pontjának felel meg.
+
+alkalmazasok.html
+Pontírógép
+Tájékoztató szöveg a gyógyszer dobozán
+Játék vak és látássérült gyermekeknek
+
+braille.html
+A pontnak mint íráselemnek a felfedezése egy francia tüzértiszt, Charles Barbier százados nevéhez fûzõdik. 1819-ben kidolgozta "éjszakai írás" módszerét azzal a céllal, hogy a katonák sötétben is képesek legyenek írásos parancsokat közölni egymással. Barbier a betûket táblázatba foglalva adta meg 6-6 oszlopban. Rendszere így 36 hangot jelölt.
+Ezt a pontrendszert Louis Braille (1809-1852), a párizsi Vakok Intézetének tanítója fejlesztette tovább.
+1809-ben született Párizs közelében.
+Braille 1812-ben, háromévesen vakult meg. Apja szíjgyártó mûhelyében a szerszámokkal játszott, amikor egy ár megcsúszott és az egyik szemébe fúródott. Szemgyulladást kapott és ettõl mindkét szemére elvesztette látását. Ennek ellenére kiválóan megtanult orgonán és csellón játszani. 
+1819-ben ösztöndíjasként került Párizsba a Vak Gyermekek Nemzeti Intézetébe, ahova néhány évvel késõbb Charles Barbier is ellátogatott, hogy bemutassa írásrendszerét. A katonai vakírás azonnal felkeltette az akkor 15 éves Braille érdeklõdését. Még abban az évben kidolgozta a Barbier-féle írás (kartonlemezre nyomott domborított pontok) módosított változatát, amellyel a világtalanok igényeinek megfelelõen, egyszerû szerkezettel lehetett írni. Késõbb a hat pontot különbözõ kombinációkban alkalmazó rendszert zenei hangok lejegyzésére is alkalmassá tette. 
+Írásrendszerét elõször 1829-ben publikálta, majd annak kidolgozottabb változatát 1837-ben tette közzé. Bár rendszerét diáktársai azonnal elfogadták és használták, szélesebb körben sokkal lassabban terjedt el. Jellemzõ, hogy saját iskolája, ahol 1826-tól pedagógusként dolgozott, csak halála után két évvel, 1854-ben vezette be a Braille-írás oktatását.
+Angol nyelvterületen 1932-ben vették át az írásrendszert, Magyarországon viszont már 1890 körül használni kezdték. 
+Louis Braille 1852-ben hunyt el tuberkulózisban.

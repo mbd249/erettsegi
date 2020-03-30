@@ -1,0 +1,26 @@
+﻿(1. dia szövege)
+Fibonacci-sorozat
+
+(2. dia szövege)
+Leonardo Pisano
+Olasz kereskedő-matematikus
+Filius Bonacci, azaz Bonaccio fia
+A kor vezető arab matematikusaitól tanult
+Liber Abacci (1202), „Könyv a számtanról”
+Az arab helyiértékes számírás bemutatása
+1240-ben a Pisai Köztársaság kitüntette
+
+(3. dia szövege)
+Fibonacci feladata
+(1. szövegdoboz tartalma)
+Hány pár nyúlra szaporodik egy év alatt a kezdeti pár, ha tudjuk, hogy a nyulak két hónap alatt válnak ivaréretté, és ezután minden pár minden hónapban egy új párnak ad életet és mindegyikük életben marad?
+(2. szövegdoboz tartalma)
+Egy túra során egy hegyre akarunk feljutni. 3 út van: egy lanka szerpentin és 2 meredek ösvény. Hányféleképp juthatunk fel a hegy csúcsára a zászlóhoz (Z), ha haladhatunk bármelyik úton (akár felváltva is), de célunk mindig a feljebb jutás?
+
+(4. dia szövege)
+Képletekkel…
+A Fibonacci-sorozat definíciója:
+A Fibonacci-sorozat képlete:
+
+(5. dia szövege)
+Fibonacci-spirál

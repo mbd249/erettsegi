@@ -1,0 +1,35 @@
+﻿Sorszám	Nem 	Kor	1. csoport A szempont	1. csoport B szempont	2. csoport A szempont	2. csoport B szempont	3. csoport A szempont	3. csoport B szempont
+1	férfi	55	közepes	magas	közepes	közepes	közepes	közepes
+2	nő	45	magas	közepes	közepes	közepes	alacsony	közepes
+3	férfi	52	alacsony	közepes	magas	magas	alacsony	alacsony
+4	nő	50	alacsony	magas	magas	közepes	alacsony	alacsony
+5	nő	35	magas	magas	közepes	közepes	közepes	alacsony
+6	férfi	43	magas	magas	közepes	magas	alacsony	közepes
+7	férfi	26	magas	magas	magas	magas	közepes	közepes
+8	férfi	45	alacsony	magas	közepes	közepes	közepes	közepes
+9	nő	34	közepes	alacsony	magas	közepes	alacsony	közepes
+10	férfi	43	magas	magas	közepes	magas	közepes	közepes
+11	nő	37	magas	magas	alacsony	magas	közepes	magas
+12	nő	38	magas	magas	közepes	alacsony	közepes	alacsony
+13	nő	48	közepes	magas	magas	magas	magas	közepes
+14	férfi	60	magas	alacsony	közepes	magas	alacsony	alacsony
+15	nő	53	alacsony	magas	közepes	alacsony	közepes	magas
+16	nő	29	alacsony	közepes	alacsony	közepes	magas	közepes
+17	nő	34	magas	magas	közepes	magas	alacsony	közepes
+18	nő	35	közepes	közepes	közepes	magas	alacsony	közepes
+19	férfi	35	magas	közepes	közepes	magas	alacsony	közepes
+20	férfi	49	magas	magas	közepes	magas	közepes	közepes
+
+Nők száma
+Férfiak száma
+Átlagéletkor
+
+nő	1. csoport A szempont	1. csoport B szempont	2. csoport A szempont	2. csoport B szempont	3. csoport A szempont	3. csoport B szempont		
+alacsony
+közepes
+magas
+
+férfi	1. csoport A szempont	1. csoport B szempont	2. csoport A szempont	2. csoport B szempont	3. csoport A szempont	3. csoport B szempont		
+alacsony
+közepes
+magas

@@ -1,0 +1,3186 @@
+﻿Lakosság:																
+Legkevesebb:																
+																
+község																
+nagyközség																
+város																
+megyei jogú város																
+megyeszékhely, megyei jogú város																
+fővárosi kerület																
+																
+																
+helység	jogállása	népesség	bolgár  	cigány  	görög  	horvát  	lengyel  	német  	örmény  	román  	ruszin  	szerb  	szlovák  	szlovén  	ukrán  	körjegyzőség kódja
+Aba	nagyközség	4657														1
+Abádszalók	város	4276		1												1
+Abaliget	község	605		1												6
+Abasár	község	2562														1
+Abaújalpár	község	77														6
+Abaújkér	község	692													1	4
+Abaújlak	község	114														6
+Abaújszántó	város	3169													1	3
+Abaújszolnok	község	164		1												6
+Abaújvár	község	232														4
+Abda	község	3107														4
+Abod	község	228														6
+Abony	város	15498		1												1
+Ábrahámhegy	község	440														4
+Ács	város	7156		1												1
+Acsa	község	1513		1									1			4
+Acsád	község	689														4
+Acsalag	község	456														6
+Ácsteszér	község	708														4
+Adács	község	2820														1
+Ádánd	község	2294														1
+Adásztevel	község	785						1								6
+Adony	város	3839						1								1
+Adorjánháza	község	381		1												6
+Adorjás	község	191		1												6
+Ág	község	178		1												6
+Ágasegyháza	község	1912														1
+Ágfalva	község	2119						1								1
+Aggtelek	község	569														4
+Agyagosszergény	község	896														4
+Ajak	nagyközség	3691		1												1
+Ajka	város	29685		1				1								1
+Aka	község	257														6
+Akasztó	község	3367														1
+Alacska	község	812														1
+Alap	község	2005														4
+Alattyán	község	2145		1												1
+Albertirsa	város	12348		1									1			3
+Alcsútdoboz	község	1454														1
+Aldebrő	község	696						1								4
+Algyő	nagyközség	5247														1
+Alibánfa	község	484														6
+Almamellék	község	471		1				1								4
+Almásfüzitő	község	2246														1
+Almásháza	község	62														6
+Almáskamarás	község	869						1								6
+Almáskeresztúr	község	82														6
+Álmosd	község	1602		1												1
+Alsóberecki	község	795		1												4
+Alsóbogát	község	273														6
+Alsódobsza	község	344														4
+Alsógagy	község	100														6
+Alsómocsolád	község	349		1				1								4
+Alsónána	község	690														4
+Alsónémedi	nagyközség	4982	1													1
+Alsónemesapáti	község	736		1												4
+Alsónyék	község	778														6
+Alsóörs	község	1412														1
+Alsópáhok	község	1326														1
+Alsópetény	község	734		1									1			6
+Alsórajk	község	365														4
+Alsóregmec	község	202											1			6
+Alsószenterzsébet	község	77														6
+Alsószentiván	község	650														6
+Alsószentmárton	község	1172		1												1
+Alsószölnök	község	363						1						1		4
+Alsószuha	község	459		1												6
+Alsótelekes	község	137														6
+Alsótold	község	257														4
+Alsóújlak	község	610														1
+Alsóvadász	község	1554														1
+Alsózsolca	város	6044		1												1
+Ambrózfalva	község	509											1			4
+Anarcs	község	1977		1												1
+Andocs	község	1117														1
+Andornaktálya	község	2743														1
+Andrásfa	község	318														6
+Annavölgy	község	958														6
+Apácatorna	község	171														6
+Apagy	község	2269														1
+Apaj	község	1251														6
+Aparhant	község	1070		1												4
+Apátfalva	község	3065		1						1						1
+Apátistvánfalva	község	369												1		4
+Apátvarasd	község	132														6
+Apc	község	2655		1												1
+Áporka	község	1155														1
+Apostag	község	2035														1
+Aranyosapáti	község	1993		1												4
+Aranyosgadány	község	340		1		1		1								6
+Arka	község	81														6
+Arló	nagyközség	3785		1												1
+Arnót	község	2607		1												1
+Ároktő	község	1128														1
+Árpádhalom	község	529														6
+Árpás	község	247														6
+Ártánd	község	506														6
+Ásotthalom	község	4063														1
+Ásványráró	község	1923														1
+Aszaló	község	1960		1												1
+Ászár	község	1946		1												1
+Aszód	város	6324									1					1
+Aszófő	község	413														1
+Áta	község	186														6
+Átány	község	1394														4
+Atkár	község	1726														1
+Attala	község	869														6
+Babarc	község	758						1								4
+Babarcszőlős	község	116														6
+Babócsa	község	1653		1												4
+Bábolna	város	3756														1
+Bábonymegyer	község	820														6
+Babosdöbréte	község	535														6
+Babót	község	1109														1
+Bácsalmás	város	7045		1		1		1								3
+Bácsbokod	nagyközség	2804				1		1								1
+Bácsborsód	község	1238						1								4
+Bácsszentgyörgy	község	159														6
+Bácsszőlős	község	388														6
+Badacsonytomaj	város	2178														1
+Badacsonytördemic	község	834														1
+Bag	nagyközség	3987		1												1
+Bagamér	nagyközség	2553		1												1
+Baglad	község	42														6
+Bagod	község	1356														4
+Bágyogszovát	község	1321														4
+Baj	község	2838						1								1
+Baja	város	37707		1		1		1				1				1
+Bajánsenye	község	488														4
+Bajna	község	1955		1												1
+Bajót	község	1567		1												4
+Bak	község	1708		1												4
+Bakháza	község	199														6
+Bakóca	község	280														6
+Bakonszeg	község	1176														1
+Bakonya	község	388		1												6
+Bakonybánk	község	457														6
+Bakonybél	község	1259														4
+Bakonycsernye	község	3149											1			1
+Bakonygyirót	község	144														6
+Bakonyjákó	község	659						1								4
+Bakonykoppány	község	186						1								6
+Bakonykúti	község	117														6
+Bakonynána	község	1011						1								6
+Bakonyoszlop	község	526						1								6
+Bakonypéterd	község	265														6
+Bakonypölöske	község	387						1								6
+Bakonyság	község	50														6
+Bakonysárkány	község	953						1								4
+Bakonyszentiván	község	227						1								6
+Bakonyszentkirály	község	875														4
+Bakonyszentlászló	község	1790														4
+Bakonyszombathely	község	1460														1
+Bakonyszücs	község	344						1								6
+Bakonytamási	község	665		1												6
+Baks	község	2141		1												1
+Baksa	község	773		1												4
+Baktakék	község	700		1												4
+Baktalórántháza	város	4306		1												1
+Baktüttös	község	338														6
+Balajt	község	465														6
+Balassagyarmat	város	16580		1												3
+Balástya	község	3450														1
+Balaton	község	1162		1												4
+Balatonakali	község	632														1
+Balatonalmádi	város	8886						1								1
+Balatonberény	község	1155														1
+Balatonboglár	város	5920														3
+Balatoncsicsó	község	199						1								6
+Balatonederics	község	1053														4
+Balatonendréd	község	1386														1
+Balatonfenyves	község	1856														1
+Balatonfőkajár	község	1357		1												1
+Balatonföldvár	város	2071														3
+Balatonfüred	város	13422		1												1
+Balatonfűzfő	város	4335														1
+Balatongyörök	község	999														4
+Balatonhenye	község	124														6
+Balatonkenese	nagyközség	3263														3
+Balatonkeresztúr	község	1486														4
+Balatonlelle	város	4911														1
+Balatonmagyaród	község	496		1												6
+Balatonmáriafürdő	község	646														6
+Balatonőszöd	község	531														6
+Balatonrendes	község	119														6
+Balatonszabadi	község	3022														4
+Balatonszárszó	nagyközség	1903														1
+Balatonszemes	község	1782														4
+Balatonszentgyörgy	község	1610		1												4
+Balatonszepezd	község	399														1
+Balatonszőlős	község	602														4
+Balatonudvari	község	284														1
+Balatonújlak	község	507														6
+Balatonvilágos	község	1192														1
+Balinka	község	987						1								4
+Balkány	város	6442		1												1
+Ballószög	község	3356														1
+Balmazújváros	város	17575		1				1								1
+Balogunyom	község	1242														4
+Balotaszállás	község	1541		1												1
+Balsa	község	856														4
+Bálványos	község	541														6
+Bana	község	1685		1												1
+Bánd	község	696						1								6
+Bánfa	község	211		1												6
+Bánhorváti	község	1409														1
+Bánk	község	691											1			4
+Bánokszentgyörgy	község	678		1												6
+Bánréve	község	1376		1												1
+Bár	község	543						1								6
+Barabás	község	769														6
+Baracs	község	3573														1
+Baracska	község	2723		1												4
+Báránd	község	2624														1
+Baranyahídvég	község	205		1												6
+Baranyajenő	község	527		1												4
+Baranyaszentgyörgy	község	137														6
+Barbacs	község	738														4
+Barcs	város	11699		1		1		1								1
+Bárdudvarnok	község	1200														1
+Barlahida	község	131														4
+Bárna	község	1130		1												6
+Barnag	község	123						1								6
+Bársonyos	község	761														4
+Basal	község	203														6
+Baskó	község	186									1					6
+Báta	község	1758		1												1
+Bátaapáti	község	405														6
+Bátaszék	város	6607		1				1								3
+Baté	község	834		1												4
+Bátmonostor	község	1574														6
+Bátonyterenye	város	13270		1												1
+Bátor	község	437														6
+Bátorliget	község	710														6
+Battonya	város	5838		1						1		1				1
+Bátya	község	2132		1		1										1
+Batyk	község	407														1
+Bázakerettye	község	851														4
+Bazsi	község	407		1												6
+Béb	község	257						1								6
+Becsehely	község	2141		1		1										4
+Becske	község	574		1												6
+Becskeháza	község	40														6
+Becsvölgye	község	833														1
+Bedegkér	község	457														4
+Bedő	község	252		1						1						6
+Bejcgyertyános	község	476														6
+Békás	község	214														6
+Bekecs	község	2486														1
+Békés	város	20465		1				1		1			1			1
+Békéscsaba	megyeszékhely, megyei jogú város	64784		1			1			1			1			1
+Békéssámson	község	2434														1
+Békésszentandrás	nagyközség	3909														1
+Bekölce	község	688														6
+Bélapátfalva	város	3215		1												3
+Bélavár	község	370		1												1
+Belecska	község	432														6
+Beled	nagyközség	2686														3
+Beleg	község	661		1												6
+Belezna	község	836				1										4
+Bélmegyer	község	1064														4
+Beloiannisz	község	1161			1											1
+Belsősárd	község	110														6
+Belvárdgyula	község	423		1												1
+Benk	község	452														6
+Bénye	község	1268														4
+Bér	község	399		1									1			6
+Bérbaltavár	község	502														4
+Bercel	község	2020														4
+Beregdaróc	község	755														1
+Beregsurány	község	633														4
+Berekböszörmény	község	1707														1
+Berekfürdő	község	956														1
+Beremend	nagyközség	2651		1				1								3
+Berente	község	1110		1												1
+Beret	község	273														6
+Berettyóújfalu	város	15427		1												1
+Berhida	város	6034		1				1								3
+Berkenye	község	670						1								4
+Berkesd	község	868		1				1								4
+Berkesz	község	900														6
+Bernecebaráti	község	860														1
+Berzék	község	1118														4
+Berzence	nagyközség	2570														1
+Besence	község	129		1												6
+Besenyőd	község	642														6
+Besenyőtelek	község	2710		1												1
+Besenyszög	község	3452														1
+Besnyő	község	1808														1
+Beszterec	község	1044		1												4
+Bezedek	község	242						1								6
+Bezenye	község	1393				1										1
+Bezeréd	község	158														6
+Bezi	község	462						1								6
+Biatorbágy	város	11769			1		1	1								1
+Bicsérd	község	1035														4
+Bicske	város	11552		1												1
+Bihardancsháza	község	193														6
+Biharkeresztes	város	3819		1												3
+Biharnagybajom	község	2801														1
+Bihartorda	község	905		1												1
+Biharugra	község	899														4
+Bikács	község	443														6
+Bikal	község	763						1								6
+Biri	község	1356														1
+Birján	község	492				1		1								6
+Bisse	község	242														6
+Boba	község	837														1
+Bocfölde	község	1128		1												4
+Boconád	község	1350														1
+Bócsa	község	1816														1
+Bocska	község	374		1												6
+Bocskaikert	község	2964														1
+Boda	község	438														1
+Bodajk	város	4124														1
+Bodmér	község	213														6
+Bodolyabér	község	251		1												6
+Bodonhely	község	299														6
+Bodony	község	770		1												1
+Bodorfa	község	109														6
+Bodrog	község	452														6
+Bodroghalom	község	1355														1
+Bodrogkeresztúr	község	1157														1
+Bodrogkisfalud	község	891														4
+Bodrogolaszi	község	942														4
+Bódvalenke	község	182														6
+Bódvarákó	község	109														6
+Bódvaszilas	község	1067						1								4
+Bogács	község	2011														1
+Bogád	község	1080														6
+Bogádmindszent	község	417		1												4
+Bogdása	község	301		1												6
+Bogyiszló	község	2231		1												1
+Bogyoszló	község	604														6
+Bojt	község	501		1												6
+Bókaháza	község	313														6
+Bokod	község	2245														1
+Bokor	község	115											1			6
+Boldog	község	3067		1												1
+Boldogasszonyfa	község	446						1								6
+Boldogkőújfalu	község	534		1												6
+Boldogkőváralja	község	1160		1							1					4
+Boldva	község	2384		1												4
+Bolhás	község	441		1												6
+Bolhó	község	752		1		1										4
+Bóly	város	3970						1								3
+Boncodfölde	község	358														6
+Bonyhád	város	13957		1				1								3
+Bonyhádvarasd	község	421						1								6
+Bonnya	község	269														6
+Bordány	község	3155														1
+Borgáta	község	149														6
+Borjád	község	422						1								4
+Borota	község	1365														4
+Borsfa	község	728														4
+Borsodbóta	község	901		1												4
+Borsodgeszt	község	263														6
+Borsodivánka	község	753														4
+Borsodnádasd	város	3146		1												1
+Borsodszentgyörgy	község	1188														1
+Borsodszirák	község	1228														1
+Borsosberény	község	1034		1												1
+Borszörcsök	község	375														6
+Borzavár	község	732														1
+Bosta	község	140		1												6
+Botpalád	község	591		1												4
+Botykapeterd	község	347														6
+Bozzai	község	320														6
+Bozsok	község	342														6
+Bózsva	község	197														6
+Bő	község	646														4
+Bőcs	község	2793		1												1
+Böde	község	310														6
+Bödeháza	község	70														6
+Bögöt	község	387														4
+Bögöte	község	312														4
+Böhönye	község	2383		1												4
+Bököny	község	3272														1
+Bölcske	község	2914														1
+Bőny	község	2192		1												1
+Börcs	község	1279														6
+Börzönce	község	63														6
+Bősárkány	nagyközség	2158														3
+Bőszénfa	község	581														6
+Bucsa	község	2251														4
+Bucsu	község	602														6
+Búcsúszentlászló	község	878														4
+Bucsuta	község	238														6
+Budajenő	község	1701						1								1
+Budakalász	nagyközség	10299						1				1				1
+Budakeszi	város	13933						1								1
+Budaörs	város	28272		1	1			1	1	1	1					1
+Budapest I. kerület	fővárosi kerület	24728			1		1	1	1			1	1			1
+Budapest II. kerület	fővárosi kerület	88729	1		1	1	1	1	1	1		1	1		1	1
+Budapest III. kerület	fővárosi kerület	123723	1	1	1	1	1	1	1		1	1	1			1
+Budapest IV. kerület	fővárosi kerület	98374	1	1	1	1	1	1	1	1	1	1	1		1	1
+Budapest V. kerület	fővárosi kerület	27283	1	1	1	1	1	1	1	1	1		1			1
+Budapest VI. kerület	fővárosi kerület	42120		1	1		1	1	1		1	1	1			1
+Budapest VII. kerület	fővárosi kerület	62530	1	1	1	1	1	1	1	1	1	1				1
+Budapest VIII. kerület	fővárosi kerület	82222	1	1	1		1	1	1	1	1		1		1	1
+Budapest IX. kerület	fővárosi kerület	61576	1	1	1	1		1	1		1	1	1		1	1
+Budapest X. kerület	fővárosi kerület	79270	1	1	1	1	1	1	1	1	1					1
+Budapest XI. kerület	fővárosi kerület	139049	1	1	1	1	1	1	1	1	1	1	1		1	1
+Budapest XII. kerület	fővárosi kerület	56544	1		1	1		1	1		1	1	1			1
+Budapest XIII. kerület	fővárosi kerület	113531	1	1	1	1	1	1	1		1	1	1			1
+Budapest XIV. kerület	fővárosi kerület	120148	1	1	1	1	1	1	1	1	1	1	1			1
+Budapest XV. kerület	fővárosi kerület	80218	1	1	1	1		1	1	1		1				1
+Budapest XVI. kerület	fővárosi kerület	68484	1	1	1	1	1	1	1	1	1		1		1	1
+Budapest XVII. kerület	fővárosi kerület	78250	1	1	1		1	1	1	1	1		1			1
+Budapest XVIII. kerület	fővárosi kerület	93225	1	1	1	1	1	1	1	1	1	1		1		1
+Budapest XIX. kerület	fővárosi kerület	61610	1	1	1	1	1			1		1				1
+Budapest XX. kerület	fővárosi kerület	63371	1	1		1		1	1							1
+Budapest XXI. kerület	fővárosi kerület	76339	1	1	1			1	1	1	1					1
+Budapest XXII. kerület	fővárosi kerület	50499	1	1		1		1								1
+Budapest XXIII. kerület	fővárosi kerület	20387	1	1				1								1
+Bugac	nagyközség	2869														3
+Bugacpusztaháza	község	307														6
+Bugyi	nagyközség	5338														1
+Buj	község	2305		1												1
+Buják	község	2238		1												4
+Buzsák	község	1328														1
+Bük	város	3402				1		1								1
+Bükkábrány	község	1590														1
+Bükkaranyos	község	1525														1
+Bükkmogyorósd	község	141														6
+Bükkösd	község	1160						1								1
+Bükkszék	község	758														6
+Bükkszenterzsébet	község	1119		1												1
+Bükkszentkereszt	község	1209											1			4
+Bükkszentmárton	község	331		1												6
+Bükkzsérc	község	1009														6
+Bürüs	község	104														6
+Büssü	község	336		1												6
+Büttös	község	188														6
+Cák	község	280														6
+Cakóháza	község	48														6
+Cece	nagyközség	2644														3
+Cégénydányád	község	706														4
+Cegléd	város	38318														1
+Ceglédbercel	község	4440						1								1
+Celldömölk	város	11247		1												3
+Cered	község	1162		1												4
+Chernelházadamonya	község	202														6
+Cibakháza	nagyközség	4439		1												3
+Cigánd	város	2820		1												1
+Cikó	község	885						1								6
+Cirák	község	588														4
+Cún	község	243		1												6
+Csabacsűd	nagyközség	1879											1			1
+Csabaszabadi	község	344											1			4
+Csabdi	község	1205														1
+Csabrendek	község	3032														4
+Csáfordjánosfa	község	214														6
+Csaholc	község	486		1												6
+Csajág	község	826														6
+Csákány	község	279														6
+Csákánydoroszló	község	1772														1
+Csákberény	község	1218														6
+Csákvár	nagyközség	5218														3
+Csanádalberti	község	440														6
+Csanádapáca	község	2729														1
+Csanádpalota	nagyközség	3064														3
+Csánig	község	390														6
+Csány	község	2308		1												1
+Csányoszró	község	717														4
+Csanytelek	község	2848														1
+Csapi	község	181														6
+Csapod	község	519														6
+Csárdaszállás	község	468														1
+Csarnóta	község	134														6
+Csaroda	község	595														4
+Császár	község	1777														1
+Császártöltés	község	2457						1								1
+Császló	község	373		1												6
+Csátalja	község	1557						1								1
+Csatár	község	561														6
+Csataszög	község	315														6
+Csatka	község	265														6
+Csávoly	község	1927				1		1								1
+Csebény	község	105														6
+Csécse	község	901		1												4
+Csegöld	község	602		1												4
+Csehbánya	község	280						1								6
+Csehi	község	270														4
+Csehimindszent	község	361														4
+Csém	község	477														6
+Csemő	község	4298														1
+Csempeszkopács	község	313														6
+Csengele	község	1958														1
+Csenger	város	4824		1												3
+Csengersima	község	634														4
+Csengerújfalu	község	820														6
+Csengőd	község	2176		1												1
+Csénye	község	723														6
+Csenyéte	község	454		1												6
+Csép	község	366														6
+Csépa	község	1667		1												1
+Csepreg	város	3452		1		1										3
+Csér	község	23														6
+Cserdi	község	385		1												6
+Cserénfa	község	210														6
+Cserépfalu	község	1049														4
+Cserépváralja	község	470														6
+Cserháthaláp	község	371														6
+Cserhátsurány	község	857														4
+Cserhátszentiván	község	148														6
+Cserkeszőlő	község	2119														1
+Cserkút	község	552														4
+Csernely	község	819		1												4
+Cserszegtomaj	község	2581														1
+Csertalakos	község	31														6
+Csertő	község	406														6
+Csesznek	község	541														6
+Csesztreg	község	803														5
+Csesztve	község	327														6
+Csetény	község	1909														4
+Csévharaszt	község	1953														1
+Csibrák	község	355		1				1								6
+Csikéria	község	952				1		1								4
+Csikóstőttős	község	882						1								6
+Csikvánd	község	488														6
+Csincse	község	560														1
+Csipkerek	község	358														6
+Csitár	község	398		1												6
+Csobád	község	697		1												4
+Csobaj	község	767														6
+Csobánka	község	3169		1				1				1				1
+Csókakő	község	1284														4
+Csokonyavisonta	község	1646		1												4
+Csokvaomány	község	858														4
+Csolnok	község	3377						1								4
+Csólyospálos	község	1699														4
+Csoma	község	440														6
+Csomád	község	1405											1			1
+Csombárd	község	286														6
+Csongrád	város	17686		1												1
+Csonkahegyhát	község	374														4
+Csonkamindszent	község	187														6
+Csopak	község	1576														1
+Csór	község	1797														1
+Csorna	város	10708		1												1
+Csorvás	város	5302								1			1			1
+Csót	község	1049		1												4
+Csöde	község	80														6
+Csögle	község	647														4
+Csökmő	nagyközség	1885		1												1
+Csököly	község	1154														4
+Csömend	község	302														6
+Csömödér	község	604														4
+Csömör	nagyközség	8904											1			1
+Csönge	község	379														6
+Csörnyeföld	község	467		1												4
+Csörög	község	2174		1												1
+Csörötnek	község	870														4
+Csősz	község	1074														1
+Csővár	község	671											1			6
+Csurgó	város	5290		1												3
+Csurgónagymarton	község	192														6
+Dabas	város	16671		1									1			1
+Dabronc	község	463														4
+Dabrony	község	376														6
+Dad	község	1019														1
+Dág	község	990														4
+Dáka	község	673														4
+Dalmand	község	1353														4
+Damak	község	264														6
+Dámóc	község	392		1												6
+Dánszentmiklós	község	2869														1
+Dány	község	4364		1												1
+Daraboshegy	község	90														6
+Darány	község	931				1										5
+Darnó	község	177		1												6
+Darnózseli	község	1588														4
+Daruszentmiklós	község	1642														1
+Darvas	község	574								1						1
+Dávod	község	1984														1
+Debercsény	község	77														6
+Debrecen	megyeszékhely, megyei jogú város	206225	1	1				1	1	1						1
+Debréte	község	19														6
+Decs	nagyközség	4164		1												1
+Dédestapolcsány	község	1475		1												4
+Dég	község	2136														1
+Dejtár	község	1472		1												4
+Délegyháza	község	3187														1
+Demecser	város	4368		1												3
+Demjén	község	615		1												6
+Dencsháza	község	596		1												4
+Dénesfa	község	353														6
+Derecske	város	9116		1												1
+Derekegyház	község	1670														6
+Deszk	község	3584										1				1
+Detek	község	279														6
+Detk	község	1192														1
+Dévaványa	város	8067		1												1
+Devecser	város	4806		1												1
+Dinnyeberki	község	88														6
+Diósberény	község	361						1								6
+Diósd	község	8612						1								1
+Diósjenő	község	2937		1												1
+Dióskál	község	492		1												4
+Diósviszló	község	725		1												4
+Doba	község	502														6
+Doboz	nagyközség	4345		1												1
+Dobri	község	169														6
+Dobronhegy	község	154														6
+Dóc	község	786														6
+Domaháza	község	872		1												1
+Domaszék	község	4851														1
+Dombegyház	nagyközség	2064														1
+Dombiratos	község	584														6
+Dombóvár	város	20084						1								1
+Dombrád	város	4069		1												1
+Domony	község	2139														1
+Domoszló	község	2108		1												1
+Dormánd	község	1061														6
+Dorog	város	12262		1				1	1				1			1
+Dorogháza	község	1143		1												4
+Dozmat	község	232														6
+Döbörhegy	község	163														6
+Döbröce	község	70														6
+Döbrököz	község	2007		1												1
+Döbrönte	község	256						1								6
+Döge	község	2115		1												1
+Dömös	község	1167														1
+Dömsöd	nagyközség	5745		1												3
+Dör	község	619														1
+Dörgicse	község	262														4
+Döröske	község	84														6
+Dötk	község	26														6
+Dövény	község	289		1												6
+Drágszél	község	362														6
+Drávacsehi	község	208		1												6
+Drávacsepely	község	214		1												6
+Drávafok	község	519		1		1										4
+Drávagárdony	község	148														6
+Drávaiványi	község	202														6
+Drávakeresztúr	község	139				1										6
+Drávapalkonya	község	273														6
+Drávapiski	község	126														6
+Drávaszabolcs	község	686		1												4
+Drávaszerdahely	község	200														6
+Drávasztára	község	414				1										6
+Drávatamási	község	387														6
+Drégelypalánk	község	1580														1
+Dubicsány	község	309														6
+Dudar	község	1631														4
+Duka	község	236														6
+Dunaalmás	község	1639														1
+Dunabogdány	község	3143						1								1
+Dunaegyháza	község	1543											1			1
+Dunafalva	község	876		1				1								6
+Dunaföldvár	város	9003		1												1
+Dunaharaszti	város	19491	1	1				1								1
+Dunakeszi	város	37153	1	1			1	1								1
+Dunakiliti	község	1816														4
+Dunapataj	nagyközség	3347		1												1
+Dunaremete	község	246														6
+Dunaszeg	község	1967														4
+Dunaszekcső	község	1970		1				1								4
+Dunaszentbenedek	község	847		1												6
+Dunaszentgyörgy	község	2531		1												4
+Dunaszentmiklós	község	452						1								6
+Dunaszentpál	község	727														6
+Dunasziget	község	1449														1
+Dunatetétlen	község	549														6
+Dunaújváros	megyei jogú város	48562		1	1	1	1				1	1				1
+Dunavarsány	város	7112		1				1								1
+Dunavecse	város	4026														1
+Dusnok	község	3022		1		1		1								1
+Dúzs	község	273														6
+Ebergőc	község	154														6
+Ebes	község	4407														1
+Écs	község	1852														4
+Ecséd	község	3335														1
+Ecseg	község	1243		1												4
+Ecsegfalva	község	1232														6
+Ecseny	község	214						1								6
+Ecser	község	3589											1			1
+Edde	község	202														6
+Edelény	város	10372		1												1
+Edve	község	114														6
+Eger	megyeszékhely, megyei jogú város	56429		1	1		1				1					3
+Egerág	község	1002														4
+Egeralja	község	230														6
+Egeraracsa	község	325		1												6
+Egerbakta	község	1504		1												1
+Egerbocs	község	559														4
+Egercsehi	község	1467														4
+Egerfarmos	község	730														6
+Egerlövő	község	583		1												6
+Egerszalók	község	1908		1												4
+Egerszólát	község	1090														6
+Égerszög	község	52														6
+Egervár	község	1048														4
+Egervölgy	község	368														6
+Egyed	község	564														4
+Egyek	nagyközség	5071														1
+Egyházasdengeleg	község	480		1									1			6
+Egyházasfalu	község	851														6
+Egyházasgerge	község	763		1												6
+Egyházasharaszti	község	313														4
+Egyházashetye	község	346														4
+Egyházashollós	község	547														6
+Egyházaskesző	község	497														4
+Egyházaskozár	község	801						1								4
+Egyházasrádóc	község	1327														4
+Elek	város	5048		1				1		1			1			1
+Ellend	község	239														6
+Előszállás	nagyközség	2233														1
+Emőd	város	5203		1			1		1							1
+Encs	város	6396		1											1	1
+Encsencs	község	1986		1												1
+Endrefalva	község	1321		1												4
+Endrőc	község	384		1												6
+Enese	község	1795														4
+Enying	város	6982		1												1
+Eperjes	község	547														4
+Eperjeske	község	1155		1												4
+Eplény	község	512														6
+Epöl	község	610														1
+Ercsi	város	8426				1										1
+Érd	megyei jogú város	63669	1	1	1	1	1	1				1				1
+Erdőbénye	község	1099														1
+Erdőhorváti	község	604		1							1					4
+Erdőkertes	község	7437														1
+Erdőkövesd	község	636		1												6
+Erdőkürt	község	580											1			1
+Erdősmárok	község	84														6
+Erdősmecske	község	398						1								6
+Erdőtarcsa	község	534		1									1			6
+Erdőtelek	község	3306		1												1
+Erk	község	881		1												1
+Érpatak	község	1749		1												1
+Érsekcsanád	község	2831		1				1								1
+Érsekhalma	község	657														6
+Érsekvadkert	község	3650		1												1
+Értény	község	773		1												4
+Erzsébet	község	316		1				1								4
+Esztár	község	1351														1
+Eszteregnye	község	734														4
+Esztergályhorváti	község	462														6
+Esztergom	város	30928	1	1			1	1			1		1			1
+Ete	község	591														6
+Etes	község	1493		1												1
+Etyek	község	4236		1				1								1
+Fábiánháza	község	1730		1												1
+Fábiánsebestyén	község	2134														1
+Fácánkert	község	676														6
+Fadd	nagyközség	4501		1												1
+Fáj	község	358														6
+Fajsz	község	1759		1				1								1
+Fancsal	község	317														6
+Farád	község	1960														4
+Farkasgyepű	község	407						1								6
+Farkaslyuk	község	1811		1												1
+Farmos	község	3754														1
+Fazekasboda	község	187						1								6
+Fedémes	község	315														6
+Fegyvernek	nagyközség	6629														3
+Fehérgyarmat	város	8180														1
+Fehértó	község	469						1								6
+Fehérvárcsurgó	község	1878														1
+Feked	község	181						1								6
+Feketeerdő	község	497														6
+Felcsút	község	1764														1
+Feldebrő	község	1112		1												1
+Felgyő	község	1324														1
+Felpéc	község	885														4
+Felsőberecki	község	296														6
+Felsőcsatár	község	468				1										4
+Felsődobsza	község	933		1												6
+Felsőegerszeg	község	143														6
+Felsőgagy	község	161														4
+Felsőjánosfa	község	196														6
+Felsőkelecsény	község	407														6
+Felsőlajos	község	1003														6
+Felsőmarác	község	264														6
+Felsőmocsolád	község	439														6
+Felsőnána	község	612														6
+Felsőnyárád	község	1049														4
+Felsőnyék	község	1036														6
+Felsőörs	község	1528														1
+Felsőpáhok	község	649														1
+Felsőpakony	község	3415														1
+Felsőpetény	község	735											1			6
+Felsőrajk	község	760														4
+Felsőregmec	község	309		1												6
+Felsőszenterzsébet	község	17														6
+Felsőszentiván	község	1990														4
+Felsőszentmárton	község	948				1										4
+Felsőszölnök	község	584												1		6
+Felsőtárkány	község	3468														1
+Felsőtelekes	község	762														6
+Felsőtold	község	152														6
+Felsővadász	község	549		1												4
+Felsőzsolca	város	7043	1	1			1									3
+Fényeslitke	község	2409		1												1
+Fenyőfő	község	119														6
+Ferencszállás	község	619														4
+Fertőboz	község	249														6
+Fertőd	város	3474						1								1
+Fertőendréd	község	610														6
+Fertőhomok	község	583				1										6
+Fertőrákos	község	2172		1				1								1
+Fertőszentmiklós	város	3802														1
+Fertőszéplak	község	1254														1
+Fiad	község	162														6
+Filkeháza	község	102														6
+Fityeház	község	667				1										6
+Foktő	község	1646														4
+Folyás	község	352														6
+Fonó	község	325														6
+Fony	község	368		1												4
+Fonyód	város	4965														1
+Forráskút	község	2335														1
+Forró	község	2476		1												4
+Fót	város	18365														1
+Földeák	község	3199														4
+Földes	nagyközség	4092		1												1
+Főnyed	község	74														6
+Fulókércs	község	387														4
+Furta	község	1151		1												1
+Füle	község	877														4
+Fülesd	község	477		1												6
+Fülöp	község	1767														1
+Fülöpháza	község	862														1
+Fülöpjakab	község	1169														1
+Fülöpszállás	község	2357														1
+Fülpösdaróc	község	330														6
+Fürged	község	722		1												4
+Füzér	község	477		1									1			4
+Füzérkajata	község	116														6
+Füzérkomlós	község	340		1												4
+Füzérradvány	község	390		1												6
+Füzesabony	város	7963		1												1
+Füzesgyarmat	város	5981		1												1
+Fűzvölgy	község	145						1								4
+Gáborján	község	898		1												6
+Gáborjánháza	község	73														6
+Gacsály	község	890		1												1
+Gadács	község	91														6
+Gadány	község	387														6
+Gadna	község	260														6
+Gádoros	nagyközség	3833		1												1
+Gagyapáti	község	24														6
+Gagybátor	község	238														6
+Gagyvendégi	község	188														4
+Galambok	község	1277		1												4
+Galgaguta	község	659											1			6
+Galgagyörk	község	1075		1									1			1
+Galgahévíz	község	2527														1
+Galgamácsa	község	1986											1			4
+Gálosfa	község	315														6
+Galvács	község	91														6
+Gamás	község	758		1												4
+Ganna	község	258						1								4
+Gánt	község	852						1								6
+Gara	község	2556				1		1								4
+Garáb	község	61														6
+Garabonc	község	739		1												4
+Garadna	község	458														6
+Garbolc	község	144														6
+Gárdony	város	9303														1
+Garé	község	318		1												6
+Gasztony	község	453														1
+Gátér	község	989														1
+Gávavencsellő	nagyközség	3596		1												1
+Géberjén	község	546														4
+Gecse	község	425														6
+Géderlak	község	1041														4
+Gégény	község	1981														1
+Gelej	község	632														6
+Gelénes	község	534														6
+Gellénháza	község	1615														4
+Gelse	község	1080														4
+Gelsesziget	község	271														6
+Gemzse	község	829		1												6
+Gencsapáti	község	2822														1
+Gérce	község	1142														4
+Gerde	község	584		1												6
+Gerendás	község	1397											1			1
+Gerényes	község	250														6
+Geresdlak	község	819						1								4
+Gerjen	község	1235		1												6
+Gersekarát	község	709														4
+Geszt	község	756														6
+Gesztely	község	2826														1
+Geszteréd	község	1709														1
+Gétye	község	117														6
+Gibárt	község	374														6
+Gic	község	471														4
+Gige	község	362		1												6
+Gilvánfa	község	398		1												6
+Girincs	község	890		1												6
+Gógánfa	község	787														4
+Golop	község	585														6
+Gomba	község	3030														1
+Gombosszeg	község	47														6
+Gór	község	306														6
+Gordisa	község	310		1												6
+Gosztola	község	30														6
+Göd	város	17587										1				1
+Gödöllő	város	33575		1	1		1	1			1					1
+Gödre	község	930		1				1								1
+Gölle	község	996		1												4
+Gömörszőlős	község	69														6
+Gönc	város	2060		1												1
+Göncruszka	község	623														6
+Gönyű	község	3147														1
+Görbeháza	község	2463														1
+Görcsöny	község	1696		1												4
+Görcsönydoboka	község	409						1								6
+Görgeteg	község	1191		1												4
+Gősfa	község	319														6
+Grábóc	község	172														6
+Gulács	község	814														4
+Gutorfölde	község	1081														4
+Gyál	város	23220		1												1
+Gyalóka	község	73														6
+Gyanógeregye	község	163														6
+Gyarmat	község	1232														1
+Gyékényes	község	1010														1
+Gyenesdiás	nagyközség	3478														1
+Gyepükaján	község	363														6
+Gyermely	község	1454						1								4
+Gyód	község	699						1								6
+Gyomaendrőd	város	14375		1				1								1
+Gyóró	község	409														6
+Gyömöre	község	1311														4
+Gyömrő	város	15714									1					1
+Gyöngyfa	község	120														6
+Gyöngyös	város	32546		1							1					1
+Gyöngyösfalu	község	1132														6
+Gyöngyöshalász	község	2579														1
+Gyöngyösmellék	község	290		1												6
+Gyöngyösoroszi	község	1533		1												1
+Gyöngyöspata	község	2583		1												1
+Gyöngyössolymos	község	3085														1
+Gyöngyöstarján	község	2514														1
+Gyönk	nagyközség	2051		1				1								3
+Győr	megyeszékhely, megyei jogú város	130476		1		1	1	1	1							1
+Győrasszonyfa	község	507														6
+Györe	község	667														4
+Györgytarló	község	578														6
+Györköny	község	922						1								6
+Győrladamér	község	1503														1
+Győröcske	község	136														6
+Győrság	község	1494		1												1
+Győrsövényház	község	788						1								6
+Győrszemere	község	3122		1												1
+Győrtelek	község	1630														1
+Győrújbarát	község	5998														1
+Győrújfalu	község	1391														1
+Győrvár	község	674		1												4
+Győrzámoly	község	2304														1
+Gyugy	község	277														6
+Gyula	város	32055		1				1		1						1
+Gyulaháza	község	1970														4
+Gyulaj	község	991		1												1
+Gyulakeszi	község	732														6
+Gyúró	község	1287														4
+Gyügye	község	240														6
+Gyüre	község	1259														6
+Gyűrűs	község	94														6
+Hács	község	388														6
+Hagyárosbörönd	község	294														6
+Hahót	község	1137														4
+Hajdúbagos	község	1995		1												1
+Hajdúböszörmény	város	31793		1												1
+Hajdúdorog	város	9070		1												1
+Hajdúhadház	város	12650		1												1
+Hajdúnánás	város	17498		1												1
+Hajdúsámson	város	12846		1												1
+Hajdúszoboszló	város	23296		1												1
+Hajdúszovát	község	3087		1												1
+Hajmás	község	241														6
+Hajmáskér	község	3111														4
+Hajós	város	3262		1				1								1
+Halastó	község	102														6
+Halászi	község	2905														4
+Halásztelek	város	8620	1	1				1								1
+Halimba	község	1152														4
+Halmaj	község	1885		1												4
+Halmajugra	község	1306		1												1
+Halogy	község	264		1												6
+Hangács	község	623														4
+Hangony	község	1561		1												4
+Hantos	község	950														6
+Harasztifalu	község	166														6
+Harc	község	903		1												6
+Harka	község	1728														1
+Harkakötöny	község	932														1
+Harkány	város	4013				1		1								3
+Háromfa	község	797		1												4
+Háromhuta	község	132														6
+Harsány	község	2058		1												1
+Hárskút	község	671						1								1
+Harta	nagyközség	3414						1								3
+Hásságy	község	268						1								6
+Hatvan	város	20949		1												1
+Hédervár	község	1147														4
+Hedrehely	község	435														6
+Hegyesd	község	164														6
+Hegyeshalom	nagyközség	3486						1								1
+Hegyfalu	község	781														6
+Hegyháthodász	község	176														6
+Hegyhátmaróc	község	154														6
+Hegyhátsál	község	147														6
+Hegyhátszentjakab	község	281														4
+Hegyhátszentmárton	község	57														6
+Hegyhátszentpéter	község	153														6
+Hegykő	község	1322														4
+Hegymagas	község	243														6
+Hegymeg	község	110														6
+Hegyszentmárton	község	432		1		1		1								6
+Héhalom	község	1011		1												4
+Hejce	község	267														6
+Hejőbába	község	1970														1
+Hejőkeresztúr	község	998		1							1					4
+Hejőkürt	község	332														6
+Hejőpapi	község	1219		1												1
+Hejőszalonta	község	852		1												6
+Helesfa	község	538		1												4
+Helvécia	község	4362														1
+Hencida	község	1280		1												1
+Hencse	község	367														6
+Herceghalom	község	1883						1								1
+Hercegkút	község	634						1								4
+Hercegszántó	község	2008				1						1				1
+Heréd	község	2074														4
+Héreg	község	1030														4
+Herencsény	község	653														6
+Herend	város	3489						1								1
+Heresznye	község	284		1												6
+Hermánszeg	község	248														6
+Hernád	község	4077														1
+Hernádbűd	község	142														6
+Hernádcéce	község	206														6
+Hernádkak	község	1655		1												1
+Hernádkércs	község	267														4
+Hernádnémeti	község	3617														1
+Hernádpetri	község	270														6
+Hernádszentandrás	község	475														6
+Hernádszurdok	község	197		1												6
+Hernádvécse	község	978		1												4
+Hernyék	község	110														6
+Hét	község	543														6
+Hetefejércse	község	267														6
+Hetes	község	1172														4
+Hetvehely	község	449		1				1								4
+Hetyefő	község	93														6
+Heves	város	10804		1												1
+Hevesaranyos	község	659		1												1
+Hevesvezekény	község	638														6
+Hévíz	város	4335														1
+Hévízgyörk	község	3130														1
+Hidas	község	2086		1				1								1
+Hidasnémeti	község	1115														4
+Hidegkút	község	458						1								6
+Hidegség	község	352				1										4
+Hidvégardó	község	575		1												4
+Himesháza	község	1116						1								4
+Himod	község	633														4
+Hirics	község	240														6
+Hobol	község	996														6
+Hodász	nagyközség	3399		1												1
+Hódmezővásárhely	megyei jogú város	47258		1				1								1
+Hollád	község	235		1												6
+Hollóháza	község	885											1			1
+Hollókő	község	374														4
+Homokbödöge	község	694														4
+Homokkomárom	község	217														6
+Homokmégy	község	1387		1												4
+Homokszentgyörgy	község	1137		1												1
+Homorúd	község	612														6
+Homrogd	község	986														4
+Hont	község	532														6
+Horpács	község	178														6
+Hort	község	3839														1
+Hortobágy	község	1553														1
+Horváthertelend	község	83														6
+Horvátlövő	község	221				1										6
+Horvátzsidány	község	787				1										4
+Hosszúhetény	község	3413		1				1								1
+Hosszúpályi	nagyközség	5839		1												1
+Hosszúpereszteg	község	652														6
+Hosszúvíz	község	43														6
+Hosszúvölgy	község	171														6
+Hosztót	község	76														6
+Hottó	község	362														6
+Hőgyész	nagyközség	2962		1				1								1
+Hövej	község	314														6
+Hugyag	község	886														6
+Hunya	község	694														6
+Hunyadfalva	község	191														6
+Husztót	község	53														6
+Ibafa	község	233														6
+Iborfia	község	12														6
+Ibrány	város	6955		1												1
+Igal	nagyközség	1243														3
+Igar	község	1022														1
+Igrici	község	1247		1												1
+Iharos	község	477		1												6
+Iharosberény	község	1272		1												4
+Ikervár	község	1865														4
+Iklad	község	2125						1								1
+Iklanberény	község	31														6
+Iklódbördőce	község	312														6
+Ikrény	község	1826		1												6
+Iliny	község	170														6
+Ilk	község	1234														1
+Illocska	község	228														6
+Imola	község	101														6
+Imrehegy	község	738														6
+Ináncs	község	1278		1				1								1
+Inárcs	község	4448														1
+Inke	község	1277		1												1
+Ipacsfa	község	212														6
+Ipolydamásd	község	354														6
+Ipolyszög	község	642		1												6
+Ipolytarnóc	község	481		1												6
+Ipolytölgyes	község	476														6
+Ipolyvece	község	879		1												6
+Iregszemcse	község	2680		1												1
+Irota	község	70									1					6
+Isaszeg	város	11214		1									1			1
+Ispánk	község	111														6
+Istenmezeje	község	1615		1												1
+Istvándi	község	608		1												6
+Iszkaszentgyörgy	község	1974														4
+Iszkáz	község	350														4
+Isztimér	község	967						1								4
+Ivád	község	361		1							1					6
+Iván	község	1321		1												4
+Ivánbattyán	község	134						1								6
+Ivánc	község	706														4
+Iváncsa	község	2932														1
+Ivándárda	község	248														6
+Izmény	község	519														6
+Izsák	város	6004		1												1
+Izsófalva	nagyközség	1763		1												1
+Jágónak	község	261														6
+Ják	község	2575														1
+Jakabszállás	község	2645														1
+Jákfa	község	540														1
+Jákfalva	község	513														6
+Jákó	község	641		1												6
+Jánd	község	794		1												6
+Jánkmajtis	község	1690		1												4
+Jánoshalma	város	9343		1												1
+Jánosháza	nagyközség	2515		1												3
+Jánoshida	község	2585		1												1
+Jánossomorja	város	5811		1				1								1
+Járdánháza	község	1867		1												1
+Jármi	község	1267														4
+Jásd	község	804											1			6
+Jászágó	község	738														6
+Jászalsószentgyörgy	község	3640														1
+Jászapáti	város	9217														1
+Jászárokszállás	város	8041		1												1
+Jászberény	város	27134		1												1
+Jászboldogháza	község	1668														1
+Jászdózsa	község	2174														1
+Jászfelsőszentgyörgy	község	1925		1												1
+Jászfényszaru	város	5755		1												1
+Jászivány	község	392														6
+Jászjákóhalma	község	3105		1												1
+Jászkarajenő	község	2811		1												1
+Jászkisér	nagyközség	5427		1												1
+Jászladány	nagyközség	5922		1												1
+Jászszentandrás	község	2479														4
+Jászszentlászló	község	2537														4
+Jásztelek	község	1656		1												1
+Jéke	község	736														6
+Jenő	község	1344														6
+Jobaháza	község	571														6
+Jobbágyi	község	2289		1												1
+Jósvafő	község	256														6
+Juta	község	1224														1
+Kaba	város	6087		1												1
+Kacorlak	község	230														6
+Kács	község	541														1
+Kacsóta	község	259														6
+Kadarkút	város	2624														3
+Kajárpéc	község	1314														6
+Kajászó	község	1054														6
+Kajdacs	község	1277		1												6
+Kakasd	község	1633						1								1
+Kákics	község	203														6
+Kakucs	község	2729		1				1								1
+Kál	nagyközség	3645		1												1
+Kalaznó	község	172														6
+Káld	község	1059														4
+Kálló	község	1507		1												4
+Kallósd	község	90														6
+Kállósemjén	nagyközség	3820		1												1
+Kálmáncsa	község	662														6
+Kálmánháza	község	2051														1
+Kálócfa	község	158														6
+Kalocsa	város	17492		1		1										1
+Káloz	község	2460														1
+Kám	község	448														4
+Kamond	község	421														6
+Kamut	község	1053														1
+Kánó	község	164														6
+Kántorjánosi	község	2183		1												4
+Kány	község	61														6
+Kánya	község	437														4
+Kányavár	község	125														6
+Kapolcs	község	422		1												6
+Kápolna	község	1602		1												1
+Kápolnásnyék	község	3483														4
+Kapoly	község	699		1												4
+Kaposfő	község	1730		1				1								4
+Kaposgyarmat	község	107														6
+Kaposhomok	község	496														6
+Kaposkeresztúr	község	341														6
+Kaposmérő	község	2471		1												4
+Kapospula	község	928														4
+Kaposújlak	község	728														6
+Kaposvár	megyeszékhely, megyei jogú város	67663		1		1	1	1								1
+Kaposszekcső	község	1549						1								4
+Kaposszerdahely	község	999		1												1
+Káptalanfa	község	877														4
+Káptalantóti	község	436														6
+Kapuvár	város	10458		1												1
+Kára	község	54														6
+Karácsond	község	3178		1												1
+Karád	község	1549		1												1
+Karakó	község	197														6
+Karakószörcsök	község	329														6
+Karancsalja	község	1597		1												1
+Karancsberény	község	955														6
+Karancskeszi	község	1907		1							1					4
+Karancslapujtő	község	2719		1												1
+Karancsság	község	1190		1												6
+Kárász	község	336														6
+Karcag	város	20872		1												1
+Karcsa	község	1806		1												1
+Kardos	község	654											1			6
+Kardoskút	község	917														1
+Karmacs	község	769		1												4
+Károlyháza	község	682														6
+Karos	község	508		1												6
+Kartal	nagyközség	5923														1
+Kásád	község	322				1										6
+Kaskantyú	község	937														1
+Kastélyosdombó	község	265				1										6
+Kaszaper	község	1960														1
+Kaszó	község	124														6
+Katádfa	község	180		1												6
+Katafa	község	382														6
+Kátoly	község	321				1		1								6
+Katymár	község	2229				1		1								6
+Káva	község	607														6
+Kávás	község	252														6
+Kazár	község	2066		1												4
+Kazincbarcika	város	29695		1												1
+Kázsmárk	község	958		1												4
+Kazsok	község	321														6
+Kecel	város	8892		1				1								3
+Kecskéd	község	2021						1								1
+Kecskemét	megyeszékhely, megyei jogú város	111428		1		1		1								1
+Kehidakustány	község	1159														4
+Kék	község	1966														1
+Kékcse	község	1568		1												1
+Kéked	község	193														6
+Kékesd	község	185														6
+Kékkút	község	86														4
+Kelebia	község	2774														1
+Keléd	község	72														6
+Kelemér	község	539		1												4
+Kéleshalom	község	451														6
+Kelevíz	község	340														6
+Kemecse	város	4840		1												1
+Kemence	község	1010														1
+Kemendollár	község	529														6
+Kemeneshőgyész	község	508														4
+Kemeneskápolna	község	88														6
+Kemenesmagasi	község	872														4
+Kemenesmihályfa	község	527														1
+Kemenespálfa	község	442														6
+Kemenessömjén	község	610														1
+Kemenesszentmárton	község	205														6
+Kemenesszentpéter	község	647														6
+Keménfa	község	91														6
+Kémes	község	510														4
+Kemestaródfa	község	237														6
+Kemse	község	65														6
+Kenderes	város	4917		1												1
+Kenéz	község	282														6
+Kenézlő	község	1261														1
+Kengyel	község	4037														1
+Kenyeri	község	869														4
+Kercaszomor	község	205														6
+Kercseliget	község	388		1												6
+Kerecsend	község	2289		1												4
+Kerecseny	község	289														6
+Kerekegyháza	város	6225														1
+Kerekharaszt	község	739														1
+Kereki	község	562														6
+Kerékteleki	község	675														6
+Kerepes	nagyközség	9960		1									1			1
+Keresztéte	község	31														6
+Kerkabarabás	község	284														6
+Kerkafalva	község	123														6
+Kerkakutas	község	138														6
+Kerkáskápolna	község	100														6
+Kerkaszentkirály	község	249														6
+Kerkateskánd	község	168														6
+Kérsemjén	község	289														6
+Kerta	község	635														4
+Kertészsziget	község	401														6
+Keszeg	község	702														1
+Kesznyéten	község	1912		1												4
+Keszőhidegkút	község	210						1								6
+Keszthely	város	21100		1												1
+Kesztölc	község	2669											1			1
+Keszü	község	1326		1				1								4
+Kétbodony	község	484														4
+Kétegyháza	nagyközség	4197		1				1		1						1
+Kéthely	község	2370		1												4
+Kétpó	község	723														1
+Kétsoprony	község	1507											1			1
+Kétújfalu	község	680		1												4
+Kétvölgy	község	127												1		6
+Kéty	község	705														4
+Kevermes	nagyközség	2136														1
+Kilimán	község	246														6
+Kimle	község	2158				1		1								4
+Kincsesbánya	község	1499														6
+Királd	község	896														6
+Királyegyháza	község	980														4
+Királyhegyes	község	664														4
+Királyszentistván	község	467														6
+Kisapáti	község	372														6
+Kisapostag	község	1448														1
+Kisar	község	1077														4
+Kisasszond	község	187		1												6
+Kisasszonyfa	község	187		1												6
+Kisbabot	község	211														6
+Kisbágyon	község	445														6
+Kisbajcs	község	820														4
+Kisbajom	község	401		1												6
+Kisbárapáti	község	467														4
+Kisbárkány	község	214														6
+Kisbér	város	5516		1												1
+Kisberény	község	210		1												6
+Kisberzseny	község	90														6
+Kisbeszterce	község	80														6
+Kisbodak	község	362														6
+Kisbucsa	község	483														4
+Kisbudmér	község	126														6
+Kiscsécs	község	208		1												6
+Kiscsehi	község	179														6
+Kiscsősz	község	129														6
+Kisdér	község	126														6
+Kisdobsza	község	264														6
+Kisdombegyház	község	478														4
+Kisdorog	község	755						1								4
+Kisecset	község	176														6
+Kisfalud	község	760														6
+Kisfüzes	község	132														6
+Kisgörbő	község	174		1												6
+Kisgyalán	község	188														6
+Kisgyőr	község	1703														1
+Kishajmás	község	220														6
+Kisharsány	község	557														6
+Kishartyán	község	606		1												6
+Kisherend	község	178														6
+Kishódos	község	96														6
+Kishuta	község	293											1			6
+Kisigmánd	község	524														4
+Kisjakabfalva	község	125						1								6
+Kiskassa	község	263						1								6
+Kiskinizs	község	339														6
+Kiskorpád	község	904		1												4
+Kisköre	város	2892		1												1
+Kiskőrös	város	14452		1				1					1			1
+Kiskunfélegyháza	város	30523		1												1
+Kiskunhalas	város	28997		1				1								1
+Kiskunlacháza	nagyközség	9080	1													1
+Kiskunmajsa	város	11707		1												1
+Kiskutas	község	183														6
+Kisláng	község	2506														1
+Kisléta	község	1896		1												1
+Kislippó	község	279														6
+Kislőd	község	1246						1								6
+Kismányok	község	357														6
+Kismarja	község	1239														1
+Kismaros	község	2009						1								4
+Kisnamény	község	322														6
+Kisnána	község	1016		1									1			4
+Kisnémedi	község	681														6
+Kisnyárád	község	197		1				1								6
+Kisoroszi	község	938														1
+Kispalád	község	538		1												6
+Kispáli	község	261														6
+Kispirit	község	99														6
+Kisrákos	község	211														6
+Kisrécse	község	198														4
+Kisrozvágy	község	150														6
+Kissikátor	község	340														6
+Kissomlyó	község	243														6
+Kistamási	község	133		1												6
+Kistapolca	község	200														6
+Kistarcsa	város	10986											1			1
+Kistelek	város	7198		1												1
+Kistokaj	község	2010														1
+Kistolmács	község	165														6
+Kistormás	község	336														6
+Kistótfalu	község	331														6
+Kisújszállás	város	11738		1												1
+Kisunyom	község	414														6
+Kisvárda	város	17097		1							1					1
+Kisvarsány	község	963														1
+Kisvásárhely	község	58														6
+Kisvaszar	község	332		1												6
+Kisvejke	község	423		1				1								6
+Kiszombor	község	3970		1												1
+Kiszsidány	község	101						1								6
+Kisszállás	község	2558														1
+Kisszékely	község	336														6
+Kisszekeres	község	555														6
+Kisszentmárton	község	272		1												6
+Kissziget	község	138														6
+Kisszőlős	község	132		1												6
+Klárafalva	község	513														6
+Kocs	község	2636														1
+Kocsér	község	1947														1
+Kocsola	község	1258		1				1								6
+Kocsord	község	2883		1				1								1
+Kóka	község	4530		1												1
+Kokad	község	596														6
+Kolontár	község	804						1								4
+Komádi	város	5407		1												3
+Komárom	város	19747		1				1							1	1
+Komjáti	község	290														4
+Komló	város	25881		1	1	1		1							1	1
+Komlódtótfalu	község	115														6
+Komlósd	község	196														6
+Komlóska	község	268									1					6
+Komoró	község	1318														1
+Kompolt	község	2174		1				1								4
+Kondó	község	607														6
+Kondorfa	község	541														6
+Kondoros	nagyközség	5355											1			3
+Kóny	község	2646														4
+Konyár	község	2099		1												1
+Kópháza	község	2001				1										1
+Koppányszántó	község	340		1												6
+Korlát	község	293														6
+Koroncó	község	1965		1												1
+Kórós	község	228		1												6
+Kosd	község	2507														1
+Kóspallag	község	783														6
+Kótaj	község	4542		1												1
+Kovácshida	község	269														4
+Kovácsszénája	község	52														6
+Kovácsvágás	község	632		1												4
+Kozárd	község	171														6
+Kozármisleny	város	5802		1		1		1								2
+Kozmadombja	község	61														6
+Köblény	község	249														6
+Köcsk	község	284														6
+Kökény	község	609				1		1								6
+Kőkút	község	642														6
+Kölcse	nagyközség	1276														1
+Kölesd	község	1562		1												4
+Kölked	község	1100		1												1
+Kömlő	község	1820														1
+Kömlőd	község	1249														1
+Kömörő	község	532														6
+Kömpöc	község	744														6
+Körmend	város	12028		1												1
+Környe	község	4454						1								1
+Köröm	község	1366		1												4
+Kőröshegy	község	1610														1
+Körösladány	város	4788		1												1
+Körösnagyharsány	község	560		1												6
+Köröstarcsa	község	2585		1												1
+Kőröstetétlen	község	844														1
+Körösújfalu	község	610		1												6
+Körösszakál	község	828		1						1						6
+Körösszegapáti	község	862								1						4
+Kőszárhegy	község	1620														1
+Kőszeg	város	12032		1		1		1								1
+Kőszegdoroszló	község	241														6
+Kőszegpaty	község	198														6
+Kőszegszerdahely	község	492														4
+Kötcse	község	496														4
+Kötegyán	község	1402														6
+Kőtelek	község	1631														4
+Kővágóörs	község	828		1												1
+Kővágószőlős	község	1317		1												1
+Kővágótöttös	község	318		1												6
+Kövegy	község	411														6
+Köveskál	község	384														4
+Krasznokvajda	község	503														4
+Kulcs	község	2503														1
+Kunadacs	község	1612														1
+Kunágota	község	2685														4
+Kunbaja	község	1598		1				1								1
+Kunbaracs	község	655														1
+Kuncsorba	község	637														6
+Kunfehértó	község	2089														1
+Kunhegyes	város	7866		1												1
+Kunmadaras	nagyközség	5507		1												1
+Kunpeszér	község	641														1
+Kunszállás	község	1660														1
+Kunszentmárton	város	8850		1												1
+Kunszentmiklós	város	8704		1												1
+Kunsziget	község	1240														1
+Kup	község	443		1				1								6
+Kupa	község	144														6
+Kurd	község	1244		1												4
+Kurityán	község	1712		1												1
+Kustánszeg	község	531														6
+Kutas	község	1507		1												4
+Kutasó	község	122														6
+Kübekháza	község	1561														1
+Külsősárd	község	83														6
+Külsővat	község	788														6
+Küngös	község	530														6
+Lábatlan	város	5115														1
+Lábod	község	2074		1												4
+Lácacséke	község	291														4
+Lad	község	592						1								4
+Ladánybene	község	1688														1
+Ládbesenyő	község	285					1									4
+Lajoskomárom	nagyközség	2232														1
+Lajosmizse	város	11053		1												3
+Lak	község	606														4
+Lakhegy	község	489														6
+Lakitelek	nagyközség	4449														1
+Lakócsa	község	583		1		1										4
+Lánycsók	község	2608		1		1		1								4
+Lápafő	község	161														6
+Lapáncsa	község	201														6
+Laskod	község	1006		1												1
+Lasztonya	község	97														6
+Látrány	község	1350		1												4
+Lázi	község	568														6
+Leányfalu	nagyközség	3475														1
+Leányvár	község	1721						1								1
+Lébény	nagyközség	3221														1
+Legénd	község	504		1									1			6
+Legyesbénye	község	1593														1
+Léh	község	452		1												6
+Lénárddaróc	község	305														6
+Lendvadedes	község	36														6
+Lendvajakabfa	község	28														6
+Lengyel	község	536						1								6
+Lengyeltóti	város	3334		1												3
+Lenti	város	8328		1												1
+Lepsény	nagyközség	3164		1												1
+Lesencefalu	község	309														6
+Lesenceistvánd	község	960														4
+Lesencetomaj	község	1102														6
+Létavértes	város	7165		1						1						3
+Letenye	város	4260		1		1		1								3
+Letkés	község	1153		1												1
+Levél	község	1808						1								1
+Levelek	nagyközség	2898		1												3
+Libickozma	község	39														6
+Lickóvadamos	község	202														6
+Liget	község	446		1												6
+Ligetfalva	község	60														6
+Lipót	község	659														6
+Lippó	község	465						1				1				4
+Liptód	község	208						1								6
+Lispeszentadorján	község	323														6
+Liszó	község	419														6
+Litér	község	2055														4
+Litka	község	56														6
+Litke	község	867		1												6
+Lócs	község	118														6
+Lókút	község	505						1								6
+Lónya	község	723														1
+Lórév	község	315	1									1				6
+Lothárd	község	266														6
+Lovas	község	433														6
+Lovasberény	község	2733														1
+Lovászhetény	község	272						1								6
+Lovászi	község	1226		1												4
+Lovászpatona	község	1161		1												4
+Lőkösháza	község	1868		1						1						1
+Lőrinci	város	6126														1
+Lövő	község	1463														4
+Lövőpetri	község	460														6
+Lucfalva	község	628		1									1			4
+Ludányhalászi	község	1589														1
+Ludas	község	855		1												1
+Lukácsháza	község	1059														4
+Lulla	község	251														6
+Lúzsok	község	261		1												6
+Mád	község	2251														1
+Madaras	község	3046		1												1
+Madocsa	község	1920														1
+Maglóca	község	87														6
+Maglód	város	11319		1									1			1
+Mágocs	nagyközség	2483		1				1								3
+Magosliget	község	248														6
+Magy	község	987														1
+Magyaralmás	község	1515														1
+Magyaratád	község	862														4
+Magyarbánhegyes	község	2462														1
+Magyarbóly	község	1025														4
+Magyarcsanád	község	1525		1						1		1				1
+Magyardombegyház	község	259														6
+Magyaregregy	község	752		1												1
+Magyaregres	község	643														6
+Magyarföld	község	27														6
+Magyargéc	község	888		1												6
+Magyargencs	község	556														6
+Magyarhertelend	község	647		1				1								4
+Magyarhomorog	község	861														6
+Magyarkeresztúr	község	447														6
+Magyarkeszi	község	1269														4
+Magyarlak	község	741														6
+Magyarlukafa	község	81														6
+Magyarmecske	község	322														4
+Magyarnádalja	község	211														6
+Magyarnándor	község	1127														4
+Magyarpolány	község	1138						1								4
+Magyarsarlós	község	313				1		1								6
+Magyarszecsőd	község	446														6
+Magyarszék	község	1101		1				1								4
+Magyarszentmiklós	község	277						1								6
+Magyarszerdahely	község	519														6
+Magyarszombatfa	község	277														4
+Magyartelek	község	225		1												6
+Majosháza	község	1486														1
+Majs	község	1002						1								4
+Makád	község	1252														4
+Makkoshotyka	község	905														1
+Maklár	község	2415														4
+Makó	város	24403		1						1						1
+Malomsok	község	546														6
+Mályi	község	4252														1
+Mályinka	község	484														6
+Mánd	község	258														6
+Mándok	város	4366		1												3
+Mánfa	község	875		1												1
+Mány	község	2372		1				1								1
+Maráza	község	186						1								6
+Marcalgergelyi	község	419		1												6
+Marcali	város	11838		1												3
+Marcaltő	község	813														4
+Márfa	község	220														6
+Máriahalom	község	663						1								6
+Máriakálnok	község	1641						1								6
+Máriakéménd	község	574						1								6
+Márianosztra	község	937														4
+Máriapócs	város	2130		1							1					1
+Markaz	község	1826		1												1
+Márkháza	község	236		1												4
+Márkó	község	1143						1								4
+Markóc	község	57														6
+Markotabödöge	község	454														4
+Maróc	község	86														6
+Marócsa	község	89		1												6
+Márok	község	455						1								6
+Márokföld	község	44														6
+Márokpapi	község	441														6
+Maroslele	község	2084		1												1
+Mártély	község	1368														1
+Martfű	város	6715														3
+Martonfa	község	205														6
+Martonvásár	város	5702														1
+Martonyi	község	424					1									6
+Mátészalka	város	17436		1				1								1
+Mátételke	község	549														6
+Mátraballa	község	768														6
+Mátraderecske	község	2000		1												4
+Mátramindszent	község	854		1												6
+Mátranovák	község	1779														4
+Mátraszele	község	1050		1												6
+Mátraszentimre	község	501											1			1
+Mátraszőlős	község	1621		1												1
+Mátraterenye	község	1861		1												4
+Mátraverebély	község	2159		1												1
+Mátyásdomb	község	750														1
+Matty	község	352														6
+Mátyus	község	327														6
+Máza	község	1269		1				1								1
+Mecseknádasd	község	1559						1								4
+Mecsekpölöske	község	450														6
+Mecsér	község	594														6
+Medgyesbodzás	község	1089														1
+Medgyesegyháza	nagyközség	3848								1			1			1
+Medina	község	849		1								1				6
+Megyaszó	község	2875		1												1
+Megyehíd	község	347														6
+Megyer	község	29														6
+Meggyeskovácsi	község	745		1												1
+Méhkerék	község	2125								1						4
+Méhtelek	község	702														4
+Mekényes	község	277														6
+Mélykút	nagyközség	5403		1												1
+Mencshely	község	249														6
+Mende	község	4325														1
+Méra	község	1775		1											1	1
+Merenye	község	281														6
+Mérges	község	86														6
+Mérk	nagyközség	2118		1				1								1
+Mernye	község	1491														4
+Mersevát	község	573														6
+Mesterháza	község	156														6
+Mesteri	község	232														4
+Mesterszállás	község	711														6
+Meszes	község	169														6
+Meszlen	község	230														6
+Mesztegnyő	község	1406		1												4
+Mezőberény	város	11241		1				1					1			1
+Mezőcsát	város	6214		1												1
+Mezőcsokonya	község	1264		1												1
+Meződ	község	124														6
+Mezőfalva	nagyközség	4908		1				1								1
+Mezőgyán	község	1119		1												1
+Mezőhegyes	város	5408														1
+Mezőhék	község	327														6
+Mezőkeresztes	nagyközség	4089		1												1
+Mezőkomárom	község	964														4
+Mezőkovácsháza	város	6304		1												1
+Mezőkövesd	város	16905		1					1							3
+Mezőladány	község	1009		1												1
+Mezőlak	község	1055		1												4
+Mezőnagymihály	község	1064														4
+Mezőnyárád	község	1597														1
+Mezőörs	község	1013														4
+Mezőpeterd	község	500		1						1						6
+Mezősas	község	635		1						1						4
+Mezőszemere	község	1336														4
+Mezőszentgyörgy	község	1337														1
+Mezőszilas	község	2157		1												4
+Mezőtárkány	község	1646		1												4
+Mezőtúr	város	18176		1												3
+Mezőzombor	község	2475														1
+Miháld	község	847		1												4
+Mihályfa	község	371														4
+Mihálygerge	község	612		1												4
+Mihályháza	község	771														6
+Mihályi	község	1094														4
+Mike	község	652		1												4
+Mikebuda	község	732														6
+Mikekarácsonyfa	község	284		1												6
+Mikepércs	község	4177														1
+Miklósi	község	234														6
+Mikófalva	község	764														6
+Mikóháza	község	578		1							1		1			4
+Mikosszéplak	község	331														6
+Milejszeg	község	362														6
+Milota	község	829		1												6
+Mindszent	város	6909		1												1
+Mindszentgodisa	község	926		1				1								4
+Mindszentkálla	község	312														6
+Misefa	község	298														6
+Miske	község	1789		1				1					1			4
+Miskolc	megyeszékhely, megyei jogú város	170234	1	1	1	1	1	1			1		1		1	1
+Miszla	község	280														4
+Mocsa	község	2257														1
+Mogyoród	nagyközség	6018														1
+Mogyorósbánya	község	870											1			6
+Mogyoróska	község	75									1					6
+Moha	község	522														6
+Mohács	város	19129		1		1		1				1				3
+Mohora	község	968														1
+Molnári	község	716				1										6
+Molnaszecsőd	község	431														4
+Molvány	község	187														6
+Monaj	község	265														6
+Monok	község	1606														1
+Monor	város	18526		1												1
+Monorierdő	község	3505														1
+Mónosbél	község	440														6
+Monostorapáti	község	1083		1												4
+Monostorpályi	község	2217														1
+Monoszló	község	132														6
+Monyoród	község	190						1								6
+Mór	város	14354		1				1								1
+Mórágy	község	735						1								4
+Mórahalom	város	6007														1
+Móricgát	község	490														6
+Mórichida	község	835														4
+Mosdós	község	1036		1												1
+Mosonmagyaróvár	város	32256		1		1		1						1		1
+Mosonszentmiklós	község	2319														1
+Mosonszolnok	község	1624														1
+Mozsgó	község	1045														4
+Mőcsény	község	367														4
+Mucsfa	község	398														6
+Mucsi	község	485														6
+Múcsony	nagyközség	3210		1			1				1					1
+Muhi	község	549														6
+Murakeresztúr	község	1780		1		1										4
+Murarátka	község	273		1												6
+Muraszemenye	község	653														6
+Murga	község	75		1												6
+Murony	község	1307														1
+Nábrád	község	895														4
+Nadap	község	507														6
+Nádasd	község	1329														4
+Nádasdladány	község	1834														1
+Nádudvar	város	8995		1												1
+Nágocs	község	664														6
+Nagyacsád	község	666														6
+Nagyalásony	község	514														4
+Nagyar	község	687		1												6
+Nagyatád	város	11196		1												1
+Nagybajcs	község	929														1
+Nagybajom	város	3501		1												3
+Nagybakónak	község	401		1												6
+Nagybánhegyes	község	1223											1			1
+Nagybaracska	község	2325		1												1
+Nagybarca	község	1104														1
+Nagybárkány	község	671		1												1
+Nagyberény	község	1357														1
+Nagyberki	község	1480		1												4
+Nagybörzsöny	község	784		1				1								1
+Nagybudmér	község	227						1								6
+Nagycenk	nagyközség	1847														1
+Nagycsány	község	153		1												6
+Nagycsécs	község	835														6
+Nagycsepely	község	367														6
+Nagycserkesz	község	1800		1												1
+Nagydém	község	383														6
+Nagydobos	község	2194		1												1
+Nagydobsza	község	694		1												4
+Nagydorog	nagyközség	2711														3
+Nagyecsed	város	6306		1												1
+Nagyér	község	526														1
+Nagyesztergár	község	1251						1								6
+Nagyfüged	község	1929		1												1
+Nagygeresd	község	268														6
+Nagygörbő	község	194		1												6
+Nagygyimót	község	548														4
+Nagyhajmás	község	359		1												6
+Nagyhalász	város	5715		1												1
+Nagyharsány	község	1572														4
+Nagyhegyes	község	2752														1
+Nagyhódos	község	115														6
+Nagyhuta	község	73											1			6
+Nagyigmánd	nagyközség	3014														3
+Nagyiván	község	1168		1												1
+Nagykálló	város	10064		1												1
+Nagykamarás	község	1493														1
+Nagykanizsa	megyei jogú város	50540		1		1										1
+Nagykapornak	község	931														4
+Nagykarácsony	község	1433														1
+Nagykáta	város	12739		1												1
+Nagykereki	község	1185		1												1
+Nagykeresztúr	község	283		1												6
+Nagykinizs	község	350														6
+Nagykónyi	község	1149		1												4
+Nagykorpád	község	609		1												4
+Nagykovácsi	nagyközség	6310						1								1
+Nagykozár	község	1839				1		1								4
+Nagykökényes	község	606														6
+Nagykölked	község	159														6
+Nagykőrös	város	25105		1												1
+Nagykörű	község	1636		1												4
+Nagykutas	község	456														4
+Nagylak	község	479								1						6
+Nagylengyel	község	522														6
+Nagylóc	község	1618		1												6
+Nagylók	község	1081														1
+Nagylózs	község	953														1
+Nagymágocs	nagyközség	3152														1
+Nagymányok	nagyközség	2357		1				1								1
+Nagymaros	város	4691		1												1
+Nagymizdó	község	131														6
+Nagynyárád	község	739		1		1		1								4
+Nagyoroszi	község	2149														4
+Nagypáli	község	418														4
+Nagypall	község	432						1								4
+Nagypeterd	község	655		1												4
+Nagypirit	község	278														4
+Nagyrábé	nagyközség	2102		1												3
+Nagyrada	község	496		1												6
+Nagyrákos	község	272														6
+Nagyrécse	község	1107														4
+Nagyréde	község	3211														1
+Nagyrév	község	726														6
+Nagyrozvágy	község	642														4
+Nagysáp	község	1556														1
+Nagysimonyi	község	976														4
+Nagyszakácsi	község	472														6
+Nagyszékely	község	437														6
+Nagyszekeres	község	545														4
+Nagyszénás	nagyközség	5256														1
+Nagyszentjános	község	1810														1
+Nagyszokoly	község	878		1												6
+Nagytálya	község	872														6
+Nagytarcsa	község	3539											1			1
+Nagytevel	község	531						1								6
+Nagytilaj	község	142														6
+Nagytótfalu	község	396														6
+Nagytőke	község	455														6
+Nagyút	község	729														6
+Nagyvarsány	község	1501														1
+Nagyváty	község	360		1												6
+Nagyvázsony	község	1742		1				1								4
+Nagyvejke	község	161														6
+Nagyveleg	község	684														6
+Nagyvenyim	község	4156														1
+Nagyvisnyó	község	977														6
+Nak	község	580		1												6
+Napkor	község	3844		1												1
+Nárai	község	1216														1
+Narda	község	503				1										6
+Naszály	község	2359														1
+Négyes	község	259														6
+Nekézseny	község	810														1
+Nemesapáti	község	531														6
+Nemesbikk	község	1043														4
+Nemesborzova	község	82														6
+Nemesbőd	község	627														1
+Nemesbük	község	651														4
+Nemescsó	község	319														6
+Nemesdéd	község	718		1												4
+Nemesgörzsöny	község	698														4
+Nemesgulács	község	998														4
+Nemeshany	község	415														6
+Nemeshetés	község	310														6
+Nemeske	község	273														6
+Nemeskér	község	228														6
+Nemeskeresztúr	község	271														6
+Nemeskisfalud	község	103														6
+Nemeskocs	község	380														6
+Nemeskolta	község	371														6
+Nemesládony	község	124														6
+Nemesmedves	község	21														6
+Nemesnádudvar	község	1885						1								4
+Nemesnép	község	126														6
+Nemespátró	község	313														6
+Nemesrádó	község	322														6
+Nemesrempehollós	község	270														6
+Nemessándorháza	község	253														6
+Nemesvámos	község	2517														4
+Nemesvid	község	724		1												4
+Nemesvita	község	356														6
+Nemesszalók	község	952		1												4
+Nemesszentandrás	község	292														6
+Németbánya	község	70						1								6
+Németfalu	község	192														6
+Németkér	község	1771		1				1								6
+Nemti	község	776														6
+Neszmély	község	1385														1
+Nézsa	község	1091														1
+Nick	község	521														6
+Nikla	község	709														4
+Nógrád	község	1572														6
+Nógrádkövesd	község	713														4
+Nógrádmarcal	község	555		1												6
+Nógrádmegyer	község	1707		1												4
+Nógrádsáp	község	855											1			4
+Nógrádsipek	község	667														6
+Nógrádszakál	község	580		1												1
+Nóráp	község	196														6
+Noszlop	község	1068														4
+Noszvaj	község	1821														1
+Nova	község	833		1												1
+Novaj	község	1463														1
+Novajidrány	község	1428		1												4
+Nőtincs	község	1169														4
+Nyalka	község	444														6
+Nyárád	község	909		1												4
+Nyáregyháza	község	3957														1
+Nyárlőrinc	község	2364														1
+Nyársapát	község	1828														1
+Nyékládháza	város	4950														3
+Nyergesújfalu	város	7660		1				1			1					1
+Nyésta	község	53														6
+Nyim	község	295														6
+Nyírábrány	nagyközség	3854		1												1
+Nyíracsád	község	3873														1
+Nyirád	község	1949		1												1
+Nyíradony	város	7874		1												1
+Nyírbátor	város	12522		1												1
+Nyírbéltek	nagyközség	2815		1												1
+Nyírbogát	nagyközség	3279		1												1
+Nyírbogdány	község	2985		1												1
+Nyírcsaholy	község	2172		1												1
+Nyírcsászári	község	1166		1												1
+Nyírderzs	község	598														6
+Nyíregyháza	megyeszékhely, megyei jogú város	117597		1			1	1	1		1		1		1	1
+Nyírgelse	község	1117														1
+Nyírgyulaj	község	2000		1												1
+Nyíri	község	426		1												6
+Nyíribrony	község	1118														6
+Nyírjákó	község	927														4
+Nyírkarász	község	2360														1
+Nyírkáta	község	1816		1												1
+Nyírkércs	község	799														6
+Nyírlövő	község	707														4
+Nyírlugos	város	2837		1												1
+Nyírmada	nagyközség	4866		1												1
+Nyírmártonfalva	község	2075														1
+Nyírmeggyes	község	2599														1
+Nyírmihálydi	község	2005		1												1
+Nyírparasznya	község	970		1												6
+Nyírpazony	község	3396														1
+Nyírpilis	község	836		1												1
+Nyírtass	község	2034		1												1
+Nyírtelek	város	7001		1												1
+Nyírtét	község	1080														1
+Nyírtura	község	1872														1
+Nyírvasvári	község	1944														1
+Nyomár	község	332														6
+Nyőgér	község	317														4
+Nyugotszenterzsébet	község	242														6
+Nyúl	község	4196														1
+Óbánya	község	135						1								6
+Óbarok	község	789		1				1								1
+Óbudavár	község	56														6
+Ócsa	város	8989														1
+Ócsárd	község	410														6
+Ófalu	község	320						1								1
+Ófehértó	község	2614		1												1
+Óföldeák	község	454														6
+Óhíd	község	594		1												4
+Okány	község	2688		1												1
+Okorág	község	174														6
+Okorvölgy	község	95														6
+Olasz	község	640				1		1								4
+Olaszfa	község	470														6
+Olaszfalu	község	1107														4
+Olaszliszka	község	1672		1												4
+Olcsva	község	644														6
+Olcsvaapáti	község	312														6
+Old	község	348		1												6
+Ólmod	község	93				1										6
+Oltárc	község	255		1												6
+Onga	nagyközség	4826		1												1
+Ónod	község	2625		1							1					1
+Ópályi	község	2873		1												4
+Ópusztaszer	község	2236														1
+Orbányosfa	község	142														6
+Orci	község	582														6
+Ordacsehi	község	766														6
+Ordas	község	446		1												6
+Orfalu	község	60												1		6
+Orfű	község	882														4
+Orgovány	község	3282														1
+Ormándlak	község	118														6
+Ormosbánya	község	1779														4
+Orosháza	város	30032		1				1								1
+Oroszi	község	138														6
+Oroszlány	város	18968		1									1			1
+Oroszló	község	331		1												6
+Orosztony	község	478		1												6
+Ortaháza	község	130														6
+Osli	község	884														1
+Ostffyasszonyfa	község	793														4
+Ostoros	község	2737														1
+Oszkó	község	670														4
+Oszlár	község	425														6
+Osztopán	község	846		1												4
+Ózd	város	35621		1			1						1			1
+Ózdfalu	község	185		1												6
+Ozmánbük	község	186														6
+Ozora	község	1666		1												1
+Öcs	község	208														6
+Őcsény	község	2445		1				1								1
+Öcsöd	nagyközség	3390														1
+Ököritófülpös	nagyközség	1800		1												3
+Ölbő	község	751														1
+Ömböly	község	425														6
+Őr	község	1447														1
+Őrbottyán	nagyközség	7109														1
+Öregcsertő	község	888		1												6
+Öreglak	község	1641														1
+Őrhalom	község	1076		1												4
+Őrimagyarósd	község	231														6
+Őriszentpéter	város	1198														3
+Örkény	város	4924		1												1
+Örményes	község	1105														6
+Örménykút	község	417											1			4
+Őrtilos	község	585														4
+Örvényes	község	154														6
+Ősagárd	község	329											1			6
+Ősi	község	2081														1
+Öskü	község	2325														1
+Öttevény	község	2867														1
+Öttömös	község	782														1
+Ötvöskónyi	község	915		1												6
+Pácin	község	1421		1												1
+Pacsa	nagyközség	1831		1												3
+Pácsony	község	279														6
+Padár	község	142														6
+Páhi	község	1213														1
+Páka	község	1143														4
+Pakod	község	982														4
+Pákozd	község	3033														1
+Paks	város	19833		1				1								1
+Palé	község	111		1												6
+Pálfa	község	1592		1												1
+Pálfiszeg	község	174														6
+Pálháza	város	1062											1			2
+Páli	község	358														6
+Palkonya	község	295						1								6
+Pálmajor	község	378		1												6
+Pálmonostora	község	1818														1
+Pálosvörösmart	község	675														1
+Palotabozsok	község	947						1								4
+Palotás	község	1667														4
+Paloznak	község	417														4
+Pamlény	község	58														6
+Pamuk	község	246														6
+Pánd	község	2103		1												1
+Pankasz	község	431														4
+Pannonhalma	város	3948		1												1
+Pányok	község	53														6
+Panyola	község	591														4
+Pap	község	1829														4
+Pápa	város	32664		1				1	1							1
+Pápadereske	község	278														6
+Pápakovácsi	község	545						1								4
+Pápasalamon	község	336														6
+Pápateszér	község	1201		1												4
+Papkeszi	község	1605		1												1
+Pápoc	község	334														6
+Papos	község	837														6
+Páprád	község	169														6
+Parád	nagyközség	1961		1												1
+Parádsasvár	község	416														1
+Parasznya	község	1208		1												4
+Pári	község	642		1				1								6
+Paszab	község	1306		1												1
+Pásztó	város	9880		1												1
+Pásztori	község	380														6
+Pat	község	228														6
+Patak	község	925														4
+Patalom	község	351														6
+Patapoklosi	község	338		1												6
+Patca	község	57														6
+Pátka	község	1644														1
+Patosfa	község	254														6
+Pátroha	község	2939		1												1
+Patvarc	község	645		1												6
+Páty	község	6773		1												1
+Pátyod	község	640														4
+Pázmánd	község	2054														4
+Pázmándfalu	község	983		1												4
+Pécel	város	14868		1												1
+Pecöl	község	803														4
+Pécs	megyeszékhely, megyei jogú város	156974	1	1	1	1	1	1			1	1			1	1
+Pécsbagota	község	117														6
+Pécsdevecser	község	107						1								6
+Pécsely	község	539														6
+Pécsudvard	község	732				1										6
+Pécsvárad	város	4058		1				1								3
+Pellérd	község	2119														4
+Pély	község	1434		1												4
+Penc	község	1476														4
+Penészlek	község	959														1
+Pénzesgyőr	község	353						1								6
+Penyige	község	742														6
+Pér	község	2359														1
+Perbál	község	2192						1					1			1
+Pere	község	357		1												6
+Perecse	község	33														6
+Pereked	község	179														6
+Perenye	község	701														1
+Peresznye	község	712				1										6
+Pereszteg	község	1382														1
+Perkáta	nagyközség	4047														1
+Perkupa	község	854		1												4
+Perőcsény	község	349														4
+Peterd	község	204														6
+Péterhida	község	155														6
+Péteri	község	2153											1			1
+Pétervására	város	2534		1												3
+Pétfürdő	nagyközség	4813														1
+Pethőhenye	község	416														6
+Petneháza	község	1849		1												1
+Petőfibánya	község	2869														1
+Petőfiszállás	község	1495														1
+Petőháza	község	1061														1
+Petőmihályfa	község	237														6
+Petrikeresztúr	község	395														6
+Petrivente	község	384				1										6
+Pettend	község	147		1												6
+Piliny	község	596		1												4
+Pilis	város	11410		1									1			1
+Pilisborosjenő	község	3453						1								1
+Piliscsaba	nagyközség	7873						1					1			1
+Piliscsév	község	2378											1			1
+Pilisjászfalu	község	1435														1
+Pilismarót	község	2072		1												1
+Pilisvörösvár	város	13463						1								1
+Pilisszántó	község	2467											1			1
+Pilisszentiván	község	4303						1								1
+Pilisszentkereszt	község	2270						1					1			1
+Pilisszentlászló	község	1123											1			1
+Pincehely	nagyközség	2371		1												1
+Pinkamindszent	község	160														6
+Pinnye	község	342														1
+Piricse	község	1891		1												4
+Pirtó	község	976														6
+Piskó	község	257		1												6
+Pitvaros	község	1417											1			1
+Pócsa	község	193						1								6
+Pocsaj	nagyközség	2588		1						1						1
+Pócsmegyer	község	1733		1												1
+Pócspetri	község	1762		1												1
+Pogány	község	1105				1		1								4
+Pogányszentpéter	község	497														6
+Pókaszepetk	község	1008		1												4
+Polány	község	232														6
+Polgár	város	8133		1												1
+Polgárdi	város	6819		1												1
+Pomáz	város	16677		1				1			1	1	1			1
+Porcsalma	nagyközség	2575		1												1
+Pornóapáti	község	404						1								4
+Poroszló	község	2773		1												4
+Porpác	község	161														6
+Porrog	község	246														4
+Porrogszentkirály	község	320		1												6
+Porrogszentpál	község	95														6
+Pórszombat	község	320														6
+Porva	község	461						1								1
+Pósfa	község	290														6
+Potony	község	211				1										6
+Potyond	község	107														6
+Pölöske	község	910		1												6
+Pölöskefő	község	396														6
+Pörböly	község	555														6
+Pördefölde	község	65														6
+Pötréte	község	264														6
+Prügy	község	2454		1												1
+Pula	község	218						1								6
+Pusztaapáti	község	28														6
+Pusztaberki	község	129											1			6
+Pusztacsalád	község	255														6
+Pusztacsó	község	173														6
+Pusztadobos	község	1330		1												1
+Pusztaederics	község	181														6
+Pusztafalu	község	213														6
+Pusztaföldvár	község	1752														1
+Pusztahencse	község	1031														4
+Pusztakovácsi	község	875														4
+Pusztamagyaród	község	569		1												4
+Pusztamérges	község	1261														1
+Pusztamiske	község	413		1												6
+Pusztamonostor	község	1615														4
+Pusztaottlaka	község	374								1						6
+Pusztaradvány	község	232		1												6
+Pusztaszabolcs	város	6192														1
+Pusztaszemes	község	386														6
+Pusztaszentlászló	község	636														6
+Pusztaszer	község	1520														1
+Pusztavacs	község	1427														1
+Pusztavám	község	2534						1								4
+Pusztazámor	község	1166														1
+Putnok	város	7038		1												3
+Püski	község	650														6
+Püspökhatvan	község	1525		1									1			1
+Püspökladány	város	15117		1												1
+Püspökmolnári	község	937														6
+Püspökszilágy	község	767														6
+Rábacsanak	község	512														6
+Rábacsécsény	község	601														4
+Rábagyarmat	község	816														6
+Rábahídvég	község	977		1												4
+Rábakecöl	község	693														6
+Rábapatona	község	2460														1
+Rábapaty	község	1760														1
+Rábapordány	község	1066														6
+Rábasebes	község	100														6
+Rábaszentandrás	község	505														6
+Rábaszentmihály	község	510														6
+Rábaszentmiklós	község	127														6
+Rábatamási	község	997														4
+Rábatöttös	község	224														6
+Rábcakapi	község	177														6
+Rácalmás	nagyközség	4461										1				1
+Ráckeresztúr	község	3296														1
+Ráckeve	város	9842		1				1				1				1
+Rád	község	1870														1
+Rádfalva	község	202														6
+Rádóckölked	község	268														4
+Radostyán	község	627														6
+Ragály	község	664		1												4
+Rajka	község	2385						1								1
+Rakaca	község	763														4
+Rakacaszend	község	352														6
+Rakamaz	város	4910						1			1					1
+Rákóczibánya	község	787		1												6
+Rákóczifalva	nagyközség	5440														1
+Rákócziújfalu	község	2039														1
+Ráksi	község	489														6
+Ramocsa	község	48														6
+Ramocsaháza	község	1493														4
+Rápolt	község	146														6
+Raposka	község	233														6
+Rásonysápberencs	község	591														6
+Rátka	község	975						1								1
+Rátót	község	241														4
+Ravazd	község	1200														6
+Recsk	nagyközség	2782		1												1
+Réde	község	1405														4
+Rédics	község	988														4
+Regéc	község	99														6
+Regenye	község	140		1												6
+Regöly	község	1177														4
+Rém	község	1371														1
+Remeteszőlős	község	651														1
+Répáshuta	község	467											1			6
+Répcelak	város	2443														3
+Répceszemere	község	284														6
+Répceszentgyörgy	község	115														6
+Répcevis	község	356														6
+Resznek	község	308														6
+Rétalap	község	555														6
+Rétközberencs	község	1171		1												1
+Rétság	város	2987		1									1			1
+Révfülöp	nagyközség	1127														1
+Révleányvár	község	521														6
+Rezi	község	1190														1
+Ricse	nagyközség	1737		1												1
+Rigács	község	196														6
+Rigyác	község	448														6
+Rimóc	község	1829		1												4
+Rinyabesenyő	község	176														6
+Rinyakovácsi	község	144														6
+Rinyaszentkirály	község	394		1												6
+Rinyaújlak	község	306		1												6
+Rinyaújnép	község	56														6
+Rohod	község	1225		1												1
+Románd	község	301														6
+Romhány	község	2282		1												4
+Romonya	község	456														4
+Rózsafa	község	387		1												4
+Rozsály	község	763														4
+Rózsaszentmárton	község	2043														1
+Röjtökmuzsaj	község	444														4
+Rönök	község	447		1				1								4
+Röszke	község	3269														1
+Rudabánya	város	2668		1				1								3
+Rudolftelep	község	746														6
+Rum	község	1263														4
+Ruzsa	község	2578														1
+Ságújfalu	község	1084		1												4
+Ságvár	község	1905														4
+Sajóbábony	nagyközség	2877														1
+Sajóecseg	község	1024														1
+Sajógalgóc	község	382														6
+Sajóhídvég	község	1065														6
+Sajóivánka	község	592		1												6
+Sajókápolna	község	409														4
+Sajókaza	község	3489														1
+Sajókeresztúr	község	1541														1
+Sajólád	község	3127		1							1					1
+Sajólászlófalva	község	438														6
+Sajómercse	község	224														6
+Sajónémeti	község	533		1												4
+Sajóörös	község	1304														1
+Sajópálfala	község	792														6
+Sajópetri	község	1569		1							1					1
+Sajópüspöki	község	540														6
+Sajósenye	község	470														6
+Sajószentpéter	város	12453		1			1	1								1
+Sajószöged	község	2372														1
+Sajóvámos	község	2247														4
+Sajóvelezd	község	849														4
+Sajtoskál	község	419														4
+Salföld	község	50														1
+Salgótarján	megyeszékhely, megyei jogú város	38207		1									1			1
+Salköveskút	község	509														6
+Salomvár	község	621														6
+Sály	község	2187		1												1
+Sámod	község	213		1												4
+Sámsonháza	község	273											1			6
+Sand	község	419														6
+Sándorfalva	város	8042		1												3
+Sántos	község	549														6
+Sáp	község	980		1												1
+Sáránd	község	2338		1												1
+Sárazsadány	község	260														6
+Sárbogárd	város	12922		1												1
+Sáregres	község	812														6
+Sárfimizdó	község	103														6
+Sárhida	község	808		1												6
+Sárisáp	község	2885											1			1
+Sarkad	város	10463		1						1						1
+Sarkadkeresztúr	község	1598		1						1						1
+Sárkeresztes	község	1493														4
+Sárkeresztúr	község	2630		1												1
+Sárkeszi	község	614														6
+Sármellék	község	1862		1												4
+Sárok	község	131						1								6
+Sárosd	nagyközség	3397														3
+Sárospatak	város	13357		1				1			1					1
+Sárpilis	község	694		1												6
+Sárrétudvari	nagyközség	2870														1
+Sarród	község	1112														1
+Sárszentágota	község	1379														1
+Sárszentlőrinc	község	960		1												6
+Sárszentmihály	község	3015														1
+Sarud	község	1183		1												6
+Sárvár	város	15011		1			1									3
+Sásd	város	3322						1								3
+Sáska	község	269														6
+Sáta	község	1142		1												1
+Sátoraljaújhely	város	16299		1				1			1		1			1
+Sátorhely	község	668														6
+Sávoly	község	513														4
+Sé	község	1413														1
+Segesd	község	2580		1												4
+Selyeb	község	497		1												4
+Sellye	város	2849				1										3
+Semjén	község	461														6
+Semjénháza	község	649				1										4
+Sénye	község	43														6
+Sényő	község	1439														1
+Seregélyes	nagyközség	4668														1
+Serényfalva	község	998														1
+Sérsekszőlős	község	150														6
+Sikátor	község	304		1												6
+Siklós	város	9944		1		1		1								3
+Siklósbodony	község	138		1												6
+Siklósnagyfalu	község	413		1												6
+Sima	község	23														6
+Simaság	község	543														4
+Simonfa	község	374														4
+Simontornya	város	4220		1												1
+Sióagárd	község	1312						1								4
+Siófok	város	24221		1												1
+Siójut	község	593														6
+Sirok	község	1903		1												4
+Sitke	község	651														6
+Sobor	község	287														6
+Sokorópátka	község	1087														1
+Solt	város	6632		1												3
+Soltszentimre	község	1302														1
+Soltvadkert	város	7519		1				1								1
+Sóly	község	471														6
+Solymár	nagyközség	10043						1								1
+Som	község	688														6
+Somberek	község	1464						1								4
+Somlójenő	község	318		1												6
+Somlószőlős	község	672		1												4
+Somlóvásárhely	község	1121		1												4
+Somlóvecse	község	102														6
+Somodor	község	429														6
+Somogyacsa	község	150														6
+Somogyapáti	község	540														4
+Somogyaracs	község	206		1												6
+Somogyaszaló	község	712														4
+Somogybabod	község	501														6
+Somogybükkösd	község	91														6
+Somogycsicsó	község	165														6
+Somogydöröcske	község	151														6
+Somogyegres	község	195														6
+Somogyfajsz	község	533														4
+Somogygeszti	község	488		1												6
+Somogyhárságy	község	448		1				1								4
+Somogyhatvan	község	363		1												6
+Somogyjád	község	1578														4
+Somogymeggyes	község	539														6
+Somogysámson	község	776														1
+Somogysárd	község	1270		1												1
+Somogysimonyi	község	88														6
+Somogyszentpál	község	757														1
+Somogyszil	község	754														4
+Somogyszob	község	1640														4
+Somogytúr	község	438														6
+Somogyudvarhely	község	1101														4
+Somogyvámos	község	757		1												6
+Somogyvár	község	1911		1												4
+Somogyviszló	község	251														6
+Somogyzsitfa	község	637														4
+Somoskőújfalu	község	2234														1
+Sonkád	község	705														4
+Soponya	nagyközség	2051														1
+Sopron	megyei jogú város	59036	1			1		1								1
+Sopronhorpács	község	826				1										4
+Sopronkövesd	község	1168														1
+Sopronnémeti	község	277														6
+Sorkifalud	község	654														4
+Sorkikápolna	község	265														4
+Sormás	község	904		1												1
+Sorokpolány	község	869		1												6
+Sóshartyán	község	941		1												4
+Sóskút	község	3160											1			1
+Sóstófalva	község	301														6
+Sósvertike	község	179		1												6
+Sótony	község	645														6
+Söjtör	község	1561		1												4
+Söpte	község	808														4
+Söréd	község	488														6
+Sukoró	község	1190														1
+Sumony	község	443		1												6
+Súr	község	1274														1
+Surd	község	635														4
+Sükösd	nagyközség	3816		1												1
+Sülysáp	nagyközség	8258														1
+Sümeg	város	6423		1												1
+Sümegcsehi	község	628														4
+Sümegprága	község	637														4
+Süttő	község	2024														1
+Szabadbattyán	nagyközség	4547														1
+Szabadegyháza	község	2216														1
+Szabadhídvég	község	875														6
+Szabadi	község	294														6
+Szabadkígyós	község	2809														1
+Szabadszállás	város	6221		1												1
+Szabadszentkirály	község	804		1												4
+Szabás	község	652														6
+Szabolcs	község	423														6
+Szabolcsbáka	község	1215		1												1
+Szabolcsveresmart	község	1708		1												1
+Szada	község	4355														1
+Szágy	község	145		1				1								6
+Szajk	község	857				1		1								1
+Szajla	község	658														1
+Szajol	község	3942														1
+Szakácsi	község	139														6
+Szakadát	község	268						1								4
+Szakáld	község	558														1
+Szakály	község	1548														4
+Szakcs	község	929		1												4
+Szakmár	község	1246														4
+Szaknyér	község	59														6
+Szakoly	község	2847		1												1
+Szakony	község	456		1												4
+Szakonyfalu	község	354		1										1		6
+Szákszend	község	1534														1
+Szalafő	község	219														6
+Szalánta	község	1250				1										4
+Szalapa	község	216														6
+Szalaszend	község	1117		1												1
+Szalatnak	község	348														6
+Szálka	község	593						1								6
+Szalkszentmárton	község	2948		1												1
+Szalmatercs	község	490		1												6
+Szalonna	község	1023		1			1									4
+Szamosangyalos	község	505		1												6
+Szamosbecs	község	340		1												6
+Szamoskér	község	426														6
+Szamossályi	község	672														4
+Szamosszeg	község	1883		1												4
+Szamostatárfalva	község	312		1												6
+Szamosújlak	község	419														6
+Szanda	község	622		1												6
+Szank	község	2472		1												1
+Szántód	község	354														6
+Szany	nagyközség	2137		1												3
+Szápár	község	520											1			6
+Szaporca	község	237														6
+Szár	község	1675						1								4
+Szárász	község	34														6
+Szárazd	község	230						1								6
+Szárföld	község	894														1
+Szárliget	község	2328														1
+Szarvas	város	17557		1									1			1
+Szarvasgede	község	432														6
+Szarvaskend	község	220														4
+Szarvaskő	község	374														6
+Szászberek	község	994														1
+Szászfa	község	155														6
+Szászvár	nagyközség	2428		1				1								3
+Szatmárcseke	község	1429		1												4
+Szátok	község	581		1												1
+Szatta	község	69														6
+Szatymaz	község	4593														1
+Szava	község	340														6
+Százhalombatta	város	18226			1	1						1				1
+Szebény	község	453						1								6
+Szécsénke	község	226														6
+Szécsény	város	5917		1												3
+Szécsényfelfalu	község	462		1												6
+Szécsisziget	község	232														6
+Szederkény	község	1827				1		1								4
+Szedres	község	2324		1												1
+Szeged	megyeszékhely, megyei jogú város	169030	1	1	1	1	1	1	1	1		1	1		1	1
+Szegerdő	község	226														6
+Szeghalom	város	9314		1												1
+Szegi	község	323														6
+Szegilong	község	231														6
+Szegvár	nagyközség	4673		1												3
+Székely	község	1076		1												1
+Székelyszabar	község	612						1								6
+Székesfehérvár	megyeszékhely, megyei jogú város	102035				1	1	1	1			1	1	1	1	1
+Székkutas	község	2422														1
+Szekszárd	megyeszékhely, megyei jogú város	33883						1								3
+Szeleste	község	701														4
+Szelevény	község	1073														1
+Szellő	község	167														6
+Szemely	község	479				1										6
+Szemenye	község	327														6
+Szemere	község	386		1												1
+Szendehely	község	1629		1				1								1
+Szendrő	város	4177		1				1								3
+Szendrőlád	község	1933		1						1						1
+Szenna	község	763		1												4
+Szenta	község	391														6
+Szentantalfa	község	412														4
+Szentbalázs	község	322														4
+Szentbékkálla	község	193														6
+Szentborbás	község	134				1										6
+Szentdénes	község	319		1												6
+Szentdomonkos	község	464		1												6
+Szente	község	357														6
+Szentegát	község	415		1												6
+Szentendre	város	25401		1		1		1				1				1
+Szentes	város	29117		1	1											3
+Szentgál	község	2765														1
+Szentgáloskér	község	529														4
+Szentgotthárd	város	8953		1				1						1		1
+Szentgyörgyvár	község	324														6
+Szentgyörgyvölgy	község	425														4
+Szentimrefalva	község	200														6
+Szentistván	nagyközség	2479		1												1
+Szentistvánbaksa	község	277														6
+Szentjakabfa	község	107						1								6
+Szentkatalin	község	96														6
+Szentkirály	község	1958														1
+Szentkirályszabadja	község	2061		1												1
+Szentkozmadombja	község	87														6
+Szentlászló	község	864						1								4
+Szentliszló	község	320														6
+Szentlőrinc	város	7000		1		1		1								3
+Szentlőrinckáta	község	1962														1
+Szentmargitfalva	község	96														6
+Szentmártonkáta	község	4999														1
+Szentpéterfa	község	988				1										1
+Szentpéterfölde	község	134														6
+Szentpéterszeg	község	1111														4
+Szentpéterúr	község	1054		1												1
+Szenyér	község	311		1												6
+Szepetnek	község	1625		1		1		1								1
+Szerecseny	község	813														6
+Szeremle	község	1511		1												4
+Szerencs	város	9444		1												1
+Szerep	község	1604														1
+Szergény	község	339														6
+Szigetbecse	község	1346		1				1								1
+Szigetcsép	község	2354						1				1				1
+Szigethalom	város	16477	1													1
+Szigetmonostor	község	2213														1
+Szigetszentmárton	község	2083						1								1
+Szigetszentmiklós	város	32340	1	1				1								1
+Szigetújfalu	község	2087						1								1
+Szigetvár	város	10900		1		1		1								3
+Szigliget	község	857														4
+Szihalom	község	2073														1
+Szijártóháza	község	26														6
+Szikszó	város	5637		1			1									1
+Szil	község	1235		1												4
+Szilágy	község	305														6
+Szilaspogony	község	341		1												6
+Szilsárkány	község	662														4
+Szilvágy	község	211														6
+Szilvás	község	168														6
+Szilvásvárad	község	1742														4
+Szilvásszentmárton	község	196														6
+Szin	község	751														4
+Szinpetri	község	228														6
+Szirák	község	1141		1												4
+Szirmabesenyő	nagyközség	4531		1												1
+Szob	város	2986														1
+Szokolya	község	1791														6
+Szólád	község	583														6
+Szolnok	megyeszékhely, megyei jogú város	74885		1			1									1
+Szombathely	megyeszékhely, megyei jogú város	79513		1		1		1						1		1
+Szomód	község	2104						1								4
+Szomolya	község	1613		1												1
+Szomor	község	1135						1								1
+Szorgalmatos	község	1070														1
+Szorosad	község	93														6
+Szőc	község	439														1
+Szőce	község	375														4
+Sződ	község	3270											1			1
+Sződliget	község	4552														1
+Szögliget	község	641					1									6
+Szőke	község	139		1												6
+Szőkéd	község	388		1		1										6
+Szőkedencs	község	288														6
+Szőlősardó	község	109														4
+Szőlősgyörök	község	1218														1
+Szörény	község	61														6
+Szúcs	község	413		1												6
+Szuha	község	658											1			6
+Szuhafő	község	156														6
+Szuhakálló	község	1037														1
+Szuhogy	község	1243		1												4
+Szulimán	község	219														6
+Szulok	község	620						1								4
+Szurdokpüspöki	község	1905														1
+Szűcsi	község	1605		1												1
+Szügy	község	1425		1									1			4
+Szűr	község	282						1								6
+Tab	város	4504														3
+Tabajd	község	974														1
+Tabdi	község	1127														1
+Táborfalva	község	3429														1
+Tác	község	1694														1
+Tagyon	község	89														6
+Tahitótfalu	község	5404														1
+Takácsi	község	857														1
+Tákos	község	382														6
+Taksony	nagyközség	6369		1				1								1
+Taktabáj	község	597														1
+Taktaharkány	nagyközség	3853		1												1
+Taktakenéz	község	1268		1												1
+Taktaszada	község	1947		1												1
+Taliándörögd	község	718														4
+Tállya	község	2025														4
+Tamási	város	8592		1				1								1
+Tanakajd	község	791														6
+Táp	község	720														6
+Tápióbicske	község	3512		1												1
+Tápiógyörgye	község	3756		1												1
+Tápióság	község	2705		1												1
+Tápiószecső	nagyközség	6434		1												1
+Tápiószele	nagyközség	6207		1												1
+Tápiószentmárton	nagyközség	5505		1												1
+Tápiószőlős	község	3036														1
+Táplánszentkereszt	község	2555														1
+Tapolca	város	16211		1				1								2
+Tapsony	község	697		1												4
+Tápszentmiklós	község	960														4
+Tar	község	1933		1												1
+Tarany	község	1200		1												1
+Tarcal	község	3006														1
+Tard	község	1331														1
+Tardona	község	1056														1
+Tardos	község	1630											1			1
+Tarhos	község	968														6
+Tarján	község	2744						1								1
+Tarjánpuszta	község	378														4
+Tárkány	község	1620		1												4
+Tarnabod	község	718		1												6
+Tarnalelesz	község	1715		1												4
+Tarnaméra	község	1656														4
+Tarnaörs	község	1857		1												4
+Tarnaszentmária	község	249														6
+Tarnaszentmiklós	község	901														6
+Tarnazsadány	község	1188		1												4
+Tárnok	nagyközség	9029		1									1			1
+Tárnokréti	község	199														6
+Tarpa	nagyközség	2141														1
+Tarrós	község	117														6
+Táska	község	410														6
+Tass	község	2957		1												1
+Taszár	község	1982														4
+Tát	nagyközség	5437						1								1
+Tata	város	24902		1			1	1								1
+Tatabánya	megyeszékhely, megyei jogú város	70333		1	1		1	1					1			1
+Tataháza	község	1300														6
+Tatárszentgyörgy	község	1966		1												1
+Tázlár	község	1782														4
+Téglás	város	6624														1
+Tékes	község	261		1												6
+Teklafalu	község	351		1												4
+Telekes	község	519														6
+Telekgerendás	község	1599											1			1
+Teleki	község	202														6
+Telki	község	3448														1
+Telkibánya	község	634														4
+Tengelic	község	2401		1												1
+Tengeri	község	54														6
+Tengőd	község	509														6
+Tenk	község	1189														1
+Tényő	község	1566														1
+Tépe	község	1116														1
+Terem	község	650														4
+Terény	község	435											1			6
+Tereske	község	730		1												1
+Teresztenye	község	27														6
+Terpes	község	204		1												6
+Tés	község	857														4
+Tésa	község	84														6
+Tésenfa	község	183		1												6
+Téseny	község	319		1												6
+Teskánd	község	1133														4
+Tét	város	4010		1												1
+Tetétlen	község	1397		1												1
+Tevel	község	1537		1				1								4
+Tibolddaróc	község	1479														1
+Tiborszállás	község	1003														1
+Tihany	község	1369														4
+Tikos	község	127														6
+Tilaj	község	203														6
+Timár	község	1350		1												1
+Tinnye	község	1576		1												1
+Tiszaadony	község	627														6
+Tiszaalpár	nagyközség	5031		1												1
+Tiszabábolna	község	393														4
+Tiszabecs	nagyközség	998		1												3
+Tiszabercel	község	1957														1
+Tiszabezdéd	község	1961		1												1
+Tiszabő	község	1936		1												1
+Tiszabura	község	2801		1												1
+Tiszacsécse	község	247														6
+Tiszacsege	város	4705		1												1
+Tiszacsermely	község	629		1												1
+Tiszadada	község	2327		1												1
+Tiszaderzs	község	1101		1												1
+Tiszadob	nagyközség	3071		1												1
+Tiszadorogma	község	389														6
+Tiszaeszlár	község	2676		1				1								1
+Tiszaföldvár	város	11548														1
+Tiszafüred	város	11136		1												1
+Tiszagyenda	község	1001														1
+Tiszagyulaháza	község	768														6
+Tiszaigar	község	817		1												1
+Tiszainoka	község	406														6
+Tiszajenő	község	1656														4
+Tiszakanyár	község	1630		1												1
+Tiszakarád	község	2373		1												1
+Tiszakécske	város	11504														1
+Tiszakerecseny	község	869														4
+Tiszakeszi	község	2515		1												1
+Tiszakóród	község	749														4
+Tiszakürt	község	1463														1
+Tiszaladány	község	704		1												4
+Tiszalök	város	5768		1												1
+Tiszalúc	nagyközség	5481		1												1
+Tiszamogyorós	község	680														6
+Tiszanagyfalu	község	1904														1
+Tiszanána	község	2425		1												4
+Tiszaörs	község	1291		1												1
+Tiszapalkonya	község	1480														4
+Tiszapüspöki	község	2099		1												1
+Tiszarád	község	603		1												6
+Tiszaroff	község	1674		1												1
+Tiszasas	község	1061														1
+Tiszasüly	község	1470														1
+Tiszaszalka	község	851														4
+Tiszaszentimre	község	2140		1												1
+Tiszaszentmárton	község	1190		1												1
+Tiszasziget	község	1767		1												1
+Tiszaszőlős	község	1949		1												1
+Tiszatardos	község	240														6
+Tiszatarján	község	1433		1												1
+Tiszatelek	község	1473														1
+Tiszatenyő	község	1705														1
+Tiszaug	község	908														1
+Tiszaújváros	város	16641		1			1				1					1
+Tiszavalk	község	322														6
+Tiszavárkony	község	1598														1
+Tiszavasvári	város	13012		1												1
+Tiszavid	község	491														6
+Tisztaberek	község	608		1												6
+Tivadar	község	197														6
+Tóalmás	község	3407														1
+Tófalu	község	570														6
+Tófej	község	706														4
+Tófű	község	117														6
+Tokaj	város	4747		1												1
+Tokod	nagyközség	4280														1
+Tokodaltáró	község	3111														1
+Tokorcs	község	333														6
+Tolcsva	község	1756		1							1					1
+Told	község	312		1												6
+Tolmács	község	721														6
+Tolna	város	11637		1				1								1
+Tolnanémedi	község	1146		1												4
+Tomajmonostora	község	680														1
+Tomor	község	230														4
+Tompa	város	4689		1												1
+Tompaládony	község	316														6
+Tordas	község	2000														6
+Tormafölde	község	365														6
+Tormás	község	290		1												4
+Tormásliget	község	337														6
+Tornabarakony	község	15														6
+Tornakápolna	község	29														6
+Tornanádaska	község	595														6
+Tornaszentandrás	község	224														6
+Tornaszentjakab	község	205														6
+Tornyiszentmiklós	község	654														4
+Tornyosnémeti	község	510		1												1
+Tornyospálca	község	2542		1												1
+Torony	község	1942														4
+Torvaj	község	273														6
+Tószeg	község	4602														1
+Tótkomlós	város	6049		1									1			1
+Tótszentgyörgy	község	173		1												4
+Tótszentmárton	község	892				1										6
+Tótszerdahely	község	1215				1										4
+Tótújfalu	község	209				1										6
+Tótvázsony	község	1192						1								4
+Tök	község	1384		1												1
+Tököl	város	10164				1		1				1				1
+Töltéstava	község	2187														1
+Tömörd	község	276														6
+Tömörkény	község	1836														1
+Törökbálint	város	13010		1				1								1
+Törökkoppány	község	481														4
+Törökszentmiklós	város	21758		1												3
+Törtel	község	4367		1												1
+Töttös	község	587						1								6
+Trizs	község	227														6
+Tunyogmatolcs	község	2464		1												1
+Tura	város	7945		1												1
+Túristvándi	község	699														4
+Túrkeve	város	9215		1												1
+Túrony	község	251														4
+Túrricse	község	606		1												4
+Tuzsér	nagyközség	3360		1												1
+Türje	község	1713		1												1
+Tüskevár	község	571														4
+Tyukod	nagyközség	1901		1												1
+Udvar	község	160						1								6
+Udvari	község	441														6
+Ugod	község	1456		1				1								4
+Újbarok	község	415						1								6
+Újcsanálos	község	905		1												6
+Újdombrád	község	703														6
+Újfehértó	város	13335														1
+Újhartyán	község	2755						1								1
+Újiráz	község	543														6
+Újireg	község	296		1												6
+Újkenéz	község	1047		1												1
+Újkér	község	974														4
+Újkígyós	nagyközség	5436														1
+Újlengyel	község	1757														1
+Újléta	község	1063		1												1
+Újlőrincfalva	község	271														6
+Újpetre	község	1099		1				1								4
+Újrónafő	község	803														4
+Újsolt	község	152														6
+Újszalonta	község	112														6
+Újszász	város	6598		1												1
+Újszentiván	község	1657		1								1				1
+Újszentmargita	község	1442		1												4
+Újszilvás	község	2708														1
+Újtelek	község	404														6
+Újtikos	község	905														4
+Újudvar	község	941		1												4
+Újvárfalva	község	333														6
+Ukk	község	298														4
+Und	község	335				1										6
+Úny	község	743														6
+Uppony	község	319														6
+Ura	község	646														4
+Uraiújfalu	község	869														4
+Úrhida	község	2194														4
+Úri	község	2713														1
+Úrkút	község	2115						1								1
+Uszka	község	369		1												6
+Uszód	község	1068		1												6
+Uzsa	község	323														6
+Üllés	község	3217														1
+Üllő	város	10924														1
+Üröm	község	6937														1
+Vác	város	33381		1							1		1		1	1
+Vácduka	község	1284														4
+Vácegres	község	887		1									1			6
+Váchartyán	község	1835														1
+Váckisújfalu	község	472														6
+Vácrátót	község	1864														1
+Vácszentlászló	község	2115														1
+Vadna	község	617														4
+Vadosfa	község	72														6
+Vág	község	513														4
+Vágáshuta	község	99											1			6
+Vaja	nagyközség	3625														1
+Vajdácska	község	1343		1												1
+Vajszló	nagyközség	1781		1		1										2
+Vajta	község	1004														6
+Vál	község	2494														1
+Valkó	nagyközség	2541		1												1
+Valkonya	község	64														6
+Vállaj	község	867						1								1
+Vállus	község	131														6
+Vámosatya	község	549														4
+Vámoscsalád	község	353														6
+Vámosgyörk	község	2012														1
+Vámosmikola	község	1648		1												4
+Vámosoroszi	község	530														4
+Vámospércs	város	5347		1												1
+Vámosújfalu	község	863														6
+Vámosszabadi	község	1562														1
+Váncsod	község	1241														1
+Vanyarc	község	1306		1									1			1
+Vanyola	község	571		1												6
+Várad	község	110														6
+Váralja	község	927		1				1								6
+Varászló	község	146														6
+Váraszó	község	522		1												6
+Várbalog	község	406														6
+Varbó	község	1105														4
+Varbóc	község	48														6
+Várda	község	517														6
+Várdomb	község	1212						1								4
+Várfölde	község	209														6
+Varga	község	119		1												6
+Várgesztes	község	569						1								1
+Várkesző	község	187														6
+Várong	község	164														6
+Városföld	község	2186														1
+Városlőd	község	1436		1				1								4
+Várpalota	város	20688		1											1	1
+Varsád	község	397		1				1								6
+Varsány	község	1705		1												1
+Várvölgy	község	1083														1
+Vasad	község	1781														1
+Vasalja	község	325														4
+Vásárosbéc	község	186		1												6
+Vásárosdombó	község	1160		1												4
+Vásárosfalu	község	161														6
+Vásárosmiske	község	361														6
+Vásárosnamény	város	8917														3
+Vasasszonyfa	község	382														6
+Vasboldogasszony	község	623														6
+Vasegerszeg	község	398														4
+Vashosszúfalu	község	373														6
+Vaskeresztes	község	357						1								6
+Vaskút	község	3506				1		1								4
+Vasmegyer	község	1726		1												1
+Vaspör	község	391														4
+Vassurány	község	810														6
+Vasvár	város	4396		1												1
+Vaszar	község	1512														4
+Vászoly	község	201														6
+Vasszécseny	község	1432														4
+Vasszentmihály	község	348						1								6
+Vasszilvágy	község	414														1
+Vát	község	696														1
+Vatta	község	919														4
+Vázsnok	község	117		1												6
+Vécs	község	638														6
+Vecsés	város	20550		1				1								1
+Végegyháza	község	1455		1												1
+Vejti	község	166														6
+Vékény	község	155														6
+Vekerd	község	119								1						6
+Velem	község	342														4
+Velemér	község	87														6
+Velence	város	5173														1
+Velény	község	159		1												6
+Véménd	község	1500		1				1								4
+Vének	község	193														6
+Vép	nagyközség	3461		1												3
+Vereb	község	801														6
+Veresegyház	város	15633		1												1
+Verőce	község	3486						1								1
+Verpelét	nagyközség	3931		1												3
+Verseg	község	1351														1
+Versend	község	925		1		1		1								4
+Vértesacsa	község	1733						1								1
+Vértesboglár	község	911						1								6
+Vérteskethely	község	576														6
+Vértessomló	község	1348						1								1
+Vértesszőlős	község	3059											1			1
+Vértestolna	község	548						1								6
+Vése	község	778														6
+Veszkény	község	922														1
+Veszprém	megyeszékhely, megyei jogú város	63405		1			1	1	1							1
+Veszprémfajsz	község	274						1								6
+Veszprémgalsa	község	288														6
+Veszprémvarsány	község	997														4
+Vésztő	város	7094		1												3
+Vezseny	község	690														6
+Vid	község	130														6
+Vigántpetend	község	210														6
+Villány	város	2480						1				1				2
+Villánykövesd	község	284						1								6
+Vilmány	község	1375		1												4
+Vilonya	község	615														6
+Vilyvitány	község	249														6
+Vinár	község	248														6
+Vindornyafok	község	127														6
+Vindornyalak	község	83														6
+Vindornyaszőlős	község	380														6
+Visegrád	város	1831						1								1
+Visnye	község	225														6
+Visonta	község	1091														1
+Viss	község	672														4
+Visz	község	200														6
+Viszák	község	254														6
+Viszló	község	72														6
+Visznek	község	1135														6
+Vitnyéd	község	1370														1
+Vízvár	község	575		1		1										6
+Vizslás	község	1333														6
+Vizsoly	község	878		1												4
+Vokány	község	875		1				1								4
+Vonyarcvashegy	nagyközség	2192														1
+Vöckönd	község	85														6
+Völcsej	község	392														6
+Vönöck	község	749														4
+Vöröstó	község	100						1								6
+Vörs	község	450														6
+Zabar	község	556		1												6
+Zádor	község	355		1												6
+Zádorfalva	község	475														6
+Zagyvarékas	község	3729		1												1
+Zagyvaszántó	község	2014														1
+Záhony	város	4279		1												3
+Zajk	község	211														6
+Zajta	község	419		1				1								6
+Zákány	község	1044														1
+Zákányfalu	község	651														6
+Zákányszék	község	2793														1
+Zala	község	253														6
+Zalaapáti	község	1653		1												4
+Zalabaksa	község	633		1												4
+Zalabér	község	718		1												4
+Zalaboldogfa	község	354														6
+Zalacsány	község	1005		1												4
+Zalacséb	község	563														4
+Zalaegerszeg	megyeszékhely, megyei jogú város	61774		1												1
+Zalaerdőd	község	273														6
+Zalagyömörő	község	444														6
+Zalahaláp	község	1285														4
+Zalaháshágy	község	380														6
+Zalaigrice	község	115														6
+Zalaistvánd	község	371														6
+Zalakaros	város	1764														3
+Zalakomár	község	3076		1												1
+Zalaköveskút	község	23														6
+Zalalövő	város	3053		1												3
+Zalameggyes	község	64														6
+Zalamerenye	község	165														6
+Zalasárszeg	község	122														6
+Zalaszabar	község	554		1												4
+Zalaszántó	község	972		1												4
+Zalaszegvár	község	154														6
+Zalaszentbalázs	község	843														4
+Zalaszentgrót	város	7313		1												1
+Zalaszentgyörgy	község	429														4
+Zalaszentiván	község	1076		1												4
+Zalaszentjakab	község	375		1												6
+Zalaszentlászló	község	858														4
+Zalaszentlőrinc	község	306														6
+Zalaszentmárton	község	76														6
+Zalaszentmihály	község	1002														4
+Zalaszombatfa	község	47														6
+Zaláta	község	289														4
+Zalatárnok	község	719														4
+Zalaújlak	község	108														6
+Zalavár	község	923		1												4
+Zalavég	község	416														6
+Zalkod	község	244														1
+Zamárdi	város	2385														1
+Zámoly	község	2260														4
+Zánka	község	937						1								4
+Zaránk	község	469														6
+Závod	község	306						1								6
+Zebecke	község	73														6
+Zebegény	község	1181														1
+Zemplénagárd	község	775		1												4
+Zengővárkony	község	419						1								6
+Zichyújfalu	község	969														1
+Zics	község	365														4
+Ziliz	község	369														6
+Zimány	község	626														6
+Zirc	város	7093						1								3
+Zók	község	294														6
+Zomba	község	2185		1				1								4
+Zubogy	község	601														4
+Zsadány	község	1649		1												4
+Zsáka	nagyközség	1622		1						1						3
+Zsámbék	nagyközség	5284		1				1								1
+Zsámbok	község	2414														1
+Zsana	község	811														1
+Zsarolyán	község	387														6
+Zsebeháza	község	124														6
+Zsédeny	község	200														1
+Zselickisfalud	község	246		1												6
+Zselickislak	község	335														6
+Zselicszentpál	község	385														6
+Zsennye	község	97														6
+Zsira	község	737														4
+Zsombó	község	3475														1
+Zsujta	község	173														6
+Zsurk	község	751														6

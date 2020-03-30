@@ -1,0 +1,58 @@
+﻿Név	Hegység	Teteje magassága	Alja magassága	Hossza	Szög (fok)	Nehézség
+Bálvány	Bükk	900	820	450		
+Bánkút 1	Bükk	930	760	600		
+Bánkút 2	Bükk	930	800	500		
+Bánkút 3	Bükk	920	840	300		
+Bánkút 4	Bükk	920	905	200		
+Bánkút 5	Bükk	920	900	150		
+Bánkút 6	Bükk	920	770	1300		
+Bánkút 7	Bükk	920	890	180		
+Bánkút 8	Bükk	920	900	150		
+Brennberg-völgy	Soproni-hegység	540	400	610		
+Bükkszentkereszt	Bükk	650	550	400		
+Dobogókő 1	Pilis	700	522	980		
+Dobogókő 2	Pilis	700	522	1170		
+Dunakömlőd	Paks környéke	185	125	350		
+Eplény 1	Bakony	530	350	970		
+Eplény 2	Bakony	530	350	1050
+Eplény 3	Bakony	530	350	830
+Eplény 4	Bakony	530	350	800
+Eplény 5	Bakony	530	350	920
+Galyatető	Mátra	950	750	950
+Kékestető, északi	Mátra	1000	800	550
+Kékestető, kis északi	Mátra	1000	900	390
+Kékestető, déli 1.	Mátra	1014	704	2200
+Kékestető, déli 2.	Mátra	1014	909	700
+Kékestető, tanuló 1.	Mátra	1014	1007	70
+Kékestető, tanuló 2.	Mátra	1000	975	200
+Kemence	Börzsöny	600	450	900
+Lillafüred	Bükk	600	350	900
+Mátraháza, Honvéd Üdülő	Mátra	700	675	100
+Mátraszentimre	Mátra	729	629	500
+Mátraszentistván 1	Mátra	821	676	560
+Mátraszentistván 2	Mátra	821	676	580
+Mátraszentistván 3	Mátra	821	676	650
+Mátraszentistván 4	Mátra	821	676	1000
+Mátraszentistván 5	Mátra	821	766	350
+Mátraszentistván 6	Mátra	821	794	280
+Mátraszentistván 7	Mátra	821	805	100
+Mátraszentlászló	Mátra	900	820	250
+Nagybárkány	Cserhát	350	270	300
+Nagy-Hideg-Hegy 1	Börzsöny	800	585	1200
+Nagy-Hideg-Hegy 2	Börzsöny	800	710	330
+Nagy-Hideg-Hegy 3	Börzsöny	800	700	310
+Nagy-mező	Bükk	800	765	100
+Nagyvillám 1	Visegrádi-hegység	372	272	500
+Nagyvillám 2	Visegrádi-hegység	372	120	1500
+Pécs - Misina-tető	Mecsek	460	320	600
+Salgótarján - Salgóbánya	Karancs-hegység	450	390	300
+Salgótarján-Szilvás-kő	Karancs-hegység	625	545	480
+Sátoraljaújhely - Magas-hegy 1	Zempléni-hegység	580	330	1030
+Sátoraljaújhely - Magas-hegy 2	Zempléni-hegység	580	380	450
+Sopron, Dalos-hegy 1	Soproni-hegység	380	290	360
+Sopron, Dalos-hegy 2	Soproni-hegység	380	290	250
+Szabó-hegy, déli	Kőszegi-hegység	470	390	270
+Szabó-hegy, északi	Kőszegi-hegység	462	390	210
+Szokolya	Börzsöny	252	152	400
+Telkibánya	Zempléni-hegység	400	280	500
+Tokaj-Tarcal	Zempléni-hegység	476	375	570
