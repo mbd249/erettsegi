@@ -76,7 +76,6 @@ namespace HSGradSolutions
             {
                 char c = eredeti[i];
                 // az ékezetes karaktereket átalakítjuk
-                // hosszú ü & hosszú ö hiányzik!!
                 switch (c)
                 {
                     case 'Á': c = 'A'; break;
@@ -84,9 +83,11 @@ namespace HSGradSolutions
                     case 'Í': c = 'I'; break;
                     case 'Ó':
                     case 'Ö':
+                    case 'Ő':
                         c = 'O'; break;
                     case 'Ú':
                     case 'Ü':
+                    case 'Ű':
                         c = 'U'; break;
                 }
                 // a betüket az eredményhez adjuk, minden más karaktert figyelmen kívül hagyunk
