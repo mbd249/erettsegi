@@ -23,8 +23,9 @@ Míg ha te oldassz meg egy feladatot, akkor ezt a Program.cs fájlban teszed, az
 ### Ellenőrzésre
 Ha megoldottál egy feladatot és szeretnéd ellenőrizni, hogy helyes-e az eredményed. Ez akkor is hasznos lehet, ha nem C#-ban oldottad meg a feladatot.
 
-Ha csak ki akarod próbálni, hogy mit kellene, hogy a programod kiírjon, vagy mi a létrehozott fájl tartalma, akkor letöltheted a programot. A FeladatValaszto.exe futtatása után kiválaszthatod a feladatot, majd a Start gombra kattintással elindul a program. 
+Ha csak ki akarod próbálni, hogy mit kellene, hogy a programod kiírjon, vagy mi a létrehozott fájl tartalma, akkor letöltheted a [programot](https://github.com/mbd249/erettsegi/releases/download/v1.0/megoldasok.zip) (34,1MB). Az állomány kicsomagolása után a FeladatValaszto.exe futtatása során kiválaszthatod a feladatot, majd a Start gombra kattintással elindul a feladathoz tartozó program. 
 A Feladatlap gombra kattintva megnyithatod az adott vizsga feladatlapját. A data mappa az összes a feladatsorokhoz tartozó fájlt tartalmazza, így akár a többi, nem programozási feladatot is megoldhatod.
+A feladatok neve melletti csillagok száma a feladat nehézségi szintjét jelöli (saját vélemény).
 
 ### Elakadtál?
 Ha egy feladat megoldása során elakadtál és nem tudod, hogy hogyan tovább, akkor megnézheted a részfeladat kódját.
@@ -34,12 +35,12 @@ Ha egy feladat megoldása során elakadtál és nem tudod, hogy hogyan tovább, 
 Hogy tudjam, hogy mit kell tudni a feladatok megoldásához nekem is meg kellett oldanom őket.
 Alapvetően tudni kell fájlból olvasni, fájlba írni, szöveget számmá és vissza alakítani. Képernyőre írni és onnan adatokat beolvasni.
 Ezeket az ismereteket próbáltam összegyűjteni egy helyre.
-Az eredményt a csharp_101.pdf fájlban találod.
+Az eredményt a [csharp_101.pdf](csharp_101.pdf) fájlban találod.
 
 
 # Gyakorló feladatok
 Ha további gyakorlásra lenne szükséged, dolgozom néhány plusz feladaton, amik nehézségi szintje kb. az érettségi feladatokéval egyezik meg.
-Az első ilyen feladatot a gyarkolo_feladatok\1_afa mappában találod. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
+Az első ilyen feladatot a [gyakorlo_feladatok/1_afa](https://github.com/mbd249/erettsegi/tree/master/gyakorlo_feladatok/1_afa) mappában találod. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
 Még igyekezni fogok legalább 4-5 feladatsort készíteni, úgyhogy látogass vissza később.
 
 # Kérdésed van?
