@@ -39,13 +39,13 @@ Az eredményt a [csharp_101.pdf](csharp_101.pdf) fájlban találod.
 
 
 # Gyakorló feladatok
-Ha további gyakorlásra lenne szükséged, dolgozom néhány plusz feladaton, amik nehézségi szintje kb. az érettségi feladatokéval egyezik meg. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
+Ha további gyakorlásra lenne szükséged a következő feladatok nehézségi szintje kb. az érettségi feladatokéval egyezik meg. A feladat leírásában található eredményeket kell kapnod, ha helyesen oldottad meg a feladatot.
 1. [ÁFA](https://github.com/mbd249/erettsegi/tree/master/gyakorlo_feladatok/1_afa)
 2. [Caesar-rejtjel](https://github.com/mbd249/erettsegi/tree/master/gyakorlo_feladatok/2_caesar)
 3. [Torpedó](https://github.com/mbd249/erettsegi/tree/master/gyakorlo_feladatok/3_torpedo)
 
 # Kérdésed van?
-Ha lenne bármilyen kérdésed akkor vagy egy github issue-ban írd le, vagy csatlakozz a külön erre a célra létrehozott discord szerverhez ([https://discord.gg/R7ecNT5](https://discord.gg/R7ecNT5)) ahol megpróbálok minden kérdésre válaszolni.
+Ha lenne bármilyen kérdésed akkor vagy egy github issue-ban írd le.
 
 # Fordítás kódból
 Ha a lefordított program helyett saját magad szeretnéd lefordítani (soha nem lehetünk elég óvatosak), akkor Visual Studio 2017 vagy 2019 Community Edition-re lesz szükséged. Klónozd a repository-t vagy töltsd le a forráskódot. Nyisd meg az ErettsegiMegoldas.sln fájlt. Válaszd ki a FeladatValaszto mint indítási projektet és futtasd.
